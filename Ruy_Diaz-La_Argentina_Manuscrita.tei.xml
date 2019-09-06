@@ -28,11 +28,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>La Argentina 
-        
-        Dedicatoria 
-        
-        A don <persName xml:id="recogito-692d3587-0f04-4d6d-af88-1fdac2170db2"
+      <div>
+       <head>La Argentina</head>
+       <div>
+        <head>Dedicatoria</head>
+        <p>A don <persName xml:id="recogito-692d3587-0f04-4d6d-af88-1fdac2170db2"
       ana="Duke,Count,Nobleman,Military">Alonso Pérez de Guzmán</persName><note resp="romideleon"
       >Alonso Pérez de Guzmán el Bueno (Sanlúcar de Barrameda, 10 de septiembre de 1550 - ibídem,
       1615), VII duque de Medina Sidonia y grande de España, fue un noble y militar español
@@ -213,7 +213,10 @@
      dejando su propia quietud y patria por conseguir empresas tan dificultosas. En todo he
      procurado satisfacer esta deuda con la narración más fidedigna que me fue posible: por lo cual
      suplico humildemente a todos los que la leyeren, reciban mi buena intención, y suplan con
-     discreción las muchas faltas que en ella se ofrecieren. Libro I Del <rs
+     discreción las muchas faltas que en ella se ofrecieren.</p></div>
+       <div>
+        <head>Libro I</head>
+        <p>Del <rs
       xml:id="recogito-2260dfb1-eaf3-473e-9eec-dc542205a160" type="event"
       ana="Expedition,Colonization">descubrimiento</rs><note resp="romideleon">Se refiere a la
       primera expedición que documenta con certeza el descubrimiento del Río de la Plata, realizada
@@ -7323,8 +7326,12 @@
      buen parecer, hábiles en la labor y costura; nobles, de condición afable, discretas, y sobre
      todo virtuosas y honradas. Por todo lo referido ha venido aquella provincia en grande aumento,
      como se dirá en el discurso de este tratado subsecuente; y aquí da fin este primer libro.
-      </p></div>
-      <div><p>Libro II
+      </p>
+       </div>
+       </div>
+      <div>
+       <head>Libro II</head>
+       <p>
       De lo sucedido en esta conquista desde el año de 1540, que entró el Adelantado <persName xml:id="recogito-4352bf2c-f22c-4de4-8240-da8fb3225b10" ana="conqueror,explorer">Álvaro Núñez Cabeza de Vaca,</persName><note resp="romideleon">Álvar Núñez Cabeza de Vaca (Jerez de la Frontera, 1488/1490 - Sevilla, 27 de mayo de 1559) fue un descubridor y conquistador español que exploró la costa sur de Norteamérica desde la actual Florida pasando por Alabama, Misisipi y Luisiana y se adentró en Texas, Nuevo México, Arizona y en el norte de México hasta llegar al Golfo de California, territorios que pasaron a anexionarse al Imperio Español dentro del Virreinato de Nueva España. El rey Carlos I de España le otorgó el título de Segundo Adelantado y lo nombró capitán general y gobernador del Río de la Plata, Paranáguazu y sus anexos, fue el primer europeo en llegar a las cataratas del Iguazú y que exploró el curso del río Paraguay.Fue el primer europeo del cual tenemos pruebas documentales respecto de sus exploraciones en la región de las cataratas del Iguazú. Están documentadas numerosas referencias sobre entradas que antiguos náufragos de los barcos de Juan Díaz de Solís (1470-1516) y Rodrigo de Acuña habrían realizado en la zona, siendo la más famosa la de Alejo o Aleixo García.Cabeza de Vaca llegó a la isla de Santa Catalina en 1541 y de allí entró en tierra firme con el objetivo de alcanzar la ciudad de Asunción del Paraguay. La misma se había convertido en el centro de la conquista del Río de la Plata. Si bien los conquistadores viejos de la expedición de Pedro de Mendoza aceptaron sus credenciales cuando entró en la ciudad en 1542, las políticas que Cabeza de Vaca intentó instalar en la región rápidamente entraron en conflicto con aquellas que pretendían sostener sus fundadores y primeros conquistadores. La situación se deterioró progresivamente hasta que, después de una fracasada entrada al Gran Chaco, Cabeza de Vaca fue encarcelado y luego expulsado de la provincia en 1545.Tras regresar a España, el antiguo adelantado debió responder a los procesos que contra él entablaron los conquistadores del Río de la Plata y el propio fiscal del rey, que se extendieron hasta entrada la década de 1550. Si bien Álvar Núñez no logró recuperar la gobernación del Río de la Plata, tampoco debió enfretar las penas que originalmente se le habían impuesto (multas y un temido destierro a Argel). Una clara señal de cierto beneplácito regio respecto de sus acciones en Indias es la reedición, en 1555, de su Relación (Zamora, 1542) acompañada de un nuevo libro titulado Comentarios (valladolid, 1555). Este último constituye la primera obra historiográfica de largo aliento sobre la conquista del Río de la Plata, considerando en particular el período de su gobernación.BibliografíaAdorno, Rolena; Pautz, Patrick Charles, Álvar Núñez Cabeza de Vaca. His Account, his Life, and the Expedition of Pánfilo de Narváez, Lincoln y Londres, University of Nebraska Press, 1999. Tres Tomos.FuentesÁlvar Núñez Cabeza de Vaca, La relación que dio Alvar Núñez Cabeça de Vaca de lo acaecido en las Indias en la armada donde iua por gobernador Panfhilo de Narváez desde el año veinte y siete hasta el año treinta y seis que volvió a Sevilla con tres de su compañía, Zamora, 1542.Álvar Núñez Cabeza de Vaca, La relación y comentarios del Gobernador Álvar Núñez Cabeça de Vaca, de lo acaecido en las dos jornadas que hizo a las Indias, Valladolid, 1555.</note> hasta la venida de don <persName xml:id="recogito-34a43df1-59a3-49dd-9ccd-9d93e13708f6">Fray Pedro de la Torre</persName><note resp="romideleon">Clérigo español nacido en Baeza, España.Llegó a América en 1556 y se hizo amigo de Domingo de Irala tomando parte en sus luchas politicas, en exploraciones y conquistas.Fue nombrado obispo de la ciudad de la Asunción en el Paraguay.Cruzó el Chaco, (extensa region entre los Andes y Paraguay) y estuvo presente en la fundación de Santa Cruz de la Sierra y en Chusisaca.Cuando volvió a la Asunción se enemistó con Felipe de Cáceres, y su enemistad terminó cuando Cáceres lo tomo presó, lo condenó y dictó sentencia a ser devuelto a España.En espera de la llegada del barco, Felipe de Cáceres quiso vigilarlo muy de cerca. Tal era su celo que lo sujetó con cadenas que se comunicaba a través de un orificio en la pared con sus aposentos.Esta extricta vigilancia continuó hasta la llegada del barco para su traslado a España que, como era natural, quiso compañarlo en el viaje.Pero el barco naufragó a la altura de las costas de Brasil, Felipe de Cáceres murió y Pedro Fernández de la Torre recobró la libertad.http://www.ranimirum.com/conquistadores/fernandez6.htm</note>, primer obispo de ella
 
       Capítulo I
@@ -8459,7 +8466,9 @@
 
       Muchos días había que se tenía noticia por vía de los indios de abajo, como habían llegado de <placeName ref="http://sws.geonames.org/3112703" xml:id="recogito-c21b6203-8933-4d43-8524-21f1e10ce711" cert="high">Castilla</placeName> ciertos navíos a, la boca del <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9001006" xml:id="recogito-382c847f-9900-4d10-9f0a-d550db60bd2d" cert="high">Río de la Plata</placeName><note resp="romideleon">Refiere a la Provincia del Río de la Plata, un espacio creado a partir de las capitulaciones que firmó el primer adelantado Pedro de Mendoza con Carlos I en 1534.La misma limitaba al norte con los territorios otorgados a Diego de Almagro, ocupando una franja que se extendería entre el Mar del Sur y el Mar Océano Austral. La exploración y ocupación efectiva del terreno delimitarían el espacio de la provincia del Río de la Plata al sector atlántico y específicamente, al eje fluvial Paraná-Plata</note>; cuya nueva se tenía por cierta, puesto que la distancia del camino era grande; mas con mucha facilidad, los naturales de aquel río se dan aviso unos a otros por humaredas y fuegos con que se entienden. Y estando el General ausente de la <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000006" xml:id="recogito-6fe63996-6246-4969-8751-2e8802ab313a" cert="high">Asumpción</placeName><note resp="gabrielcalarco">Asunción del Paraguay.</note>, por haber salido con alguna gente y oficiales de carpintería a hacer tablazón para comenzar: a poner en astillero un navío de buen porte, para despachar a <placeName ref="http://sws.geonames.org/3112703" xml:id="recogito-307db057-f6a1-4ff5-b5cd-db08fe9bfeb1" cert="high">Castilla</placeName>; llegó una canoa de indios, que llaman Agaces, a la ciudad, expresando que en la angostura y pasaje de aquel río, quedaban dos navíos, uno grande y otro pequeño. Y otro día siguiente llegaron con más resolución; a los cuales salieron a reconocer algunas personas; y topándose en la frontera, seis leguas de la <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000006" xml:id="recogito-16c2d726-ff67-4eeb-9db3-ef516fa32d7f" cert="high">Asumpción</placeName><note resp="gabrielcalarco">Asunción del Paraguay.</note>, vieron al Obispo don <persName xml:id="recogito-cf27920f-4e5a-4fc1-b329-ff9495f9e32d">Fray Pedro de la Torre</persName>, a quien como a tal prelado besaron con mucha humildad las manos; donde venía por general por Su Majestad, <persName xml:id="recogito-65ee1b8c-30c2-42bf-8674-c955c6de1815">Martín de Orué</persName>, que había ido a la corte por procurador de esta provincia, y a costa de Su Majestad volvió a ella con tres navíos de socorro de armas y municiones, y de lo demás necesario, con el nuevo prelado. Con esto la ciudad y toda la tierra recibió mucho contento, y previno un solemne recibimiento a su pastor; el cual llegó a este puerto, y entró en la ciudad año de 1555, víspera de Ramos: cuya llegada fue de gran consuelo y gozo universal. Venían en compañía del Obispo cuatro clérigos sacerdotes, y otros diáconos y de menores órdenes, y muchos criados de su casa, la cual traía bien proveída y muy ordenada: porque Su Majestad le había hecho merced de mandarle dar ayuda de costa por su viaje, y más de cuatro mil ducados de ornamentos pontificales, campanas, libros y santorales, con otras cosas necesarias para el culto divino, que fue de grande lustre y ornato para aquella república. Venían algunos hidalgos y hombres nobles en esta armada, que todos fueron muy gratamente recibidos y hospedados. Y el buen Obispo, con todo amor y humildad, admitió a grandes y pequeños debajo de su protección y amparo, como tal pastor y prelado; recibiendo sumo contento de ver tan ennoblecida aquella ciudad con tantos caballeros y hombres principales; que dijo no le hacía ventaja ninguna de las noblezas de <placeName ref="http://sws.geonames.org/2510769" xml:id="recogito-314eb2a6-2acd-4178-bf3b-9d0d78b7b1aa" cert="high">España</placeName>. Halló once o doce sacerdotes del hábito de San Pedro, muy honrados: el <persName xml:id="recogito-d0eab13d-da8c-4ba2-9ea9-929ce4728143">padre Miranda</persName>, <persName xml:id="recogito-b49a27d7-524d-4b28-af64-70f8c877589d">Francisco Homes Payaguá</persName>, que fue después deán de aquella santa iglesia, el <persName xml:id="recogito-24674c84-0768-446e-be31-b7197bd771e4">padre Fonseca</persName>, capellán de Su Majestad, el <persName xml:id="recogito-293110d7-be2f-4cff-85b7-a580107f9330">bachiller Martínez</persName>, <persName xml:id="recogito-dafb5d90-b70d-4aee-a33c-94e96bcf4e6b">Hernando Carrillo de Mendoza</persName>, el padre racionero, que era de la ciudad de <placeName xml:id="recogito-f2b672d9-c556-45ee-8399-b3c3688ecaca" cert="unknown">Toledo</placeName>, <persName xml:id="recogito-6f9d3611-e3d8-4ecc-994c-2a02cc180065">Antonio de Escalera</persName><note resp="romideleon">Clérigo en la Asumpción. Encabeza un motín contra el gobernador de Guayra.</note>, el padre <persName xml:id="recogito-bdb14c3e-0ed2-4710-9534-1ce1864c6d4c">Martín González</persName>, el <persName xml:id="recogito-ea6f6f1c-8a09-407b-a170-9815d8fd5660">licenciado Andrade</persName> y otros de quienes no hago mención, con otros religiosos de San Francisco, llamado el uno de ellos <placeName xml:id="recogito-14f8ebd1-a330-4408-b246-f551cdc59d27" cert="low">Fray Francisco de Armenia</placeName>, y el otro <placeName xml:id="recogito-0b71a701-3da4-44d6-8c9f-afd9e1b7561d" cert="low">Fray Juan de Salazar</placeName>; y otros de la orden de Nuestra Señora de las Mercedes; todos los cuales, juntamente con los ciudadanos nobles y caballeros, recibieron, como tengo dicho, con la solemnidad debida a su nuevo Obispo; de que luego enviaron a dar aviso al General; el cual con el mismo gozo y contento partió luego para la ciudad, donde llegado a los pies de su pastor, se le postró humildemente, y le pidió su bendición, besándole las manos, y llorando de puro gozo y consolación; dando gracias a Nuestro Señor por tan gran merced, como todos recibían de su mano, en aquel socorro y auxilio. Luego el capitán <persName xml:id="recogito-2d3dd616-1e99-4bb1-bfe0-19813199892a">Martín de Orue</persName> dio y entregó el pliego que traía de Su Majestad, cerrado y sellado, duplicado del que por la vía del <placeName ref="http://sws.geonames.org/3469034" xml:id="recogito-23163311-17f7-423b-a06d-b06591a4b78c" cert="high">Brasil</placeName> se le había despachado con <persName xml:id="recogito-4447e77e-f72a-4099-a3c6-abd748594ef5">Esteban de Vergara</persName>, su sobrino; que a este tiempo ya se sabía por nueva cierta de su venida por tierra para esta ciudad, a donde en pocos días llegó con los mismos despachos, y otros que Su Majestad y Real Consejo enviaron por el buen gobierno de esta provincia, como en el libro siguiente se podrá ver.
       </p></div>
-      <div><p>Libro III
+      <div>
+       <head>Libro III</head>
+       <p>
         En que se prosigue el discurso de esta conquista desde el año de 1555, que Su Majestad hizo merced de este gobierno a <persName xml:id="recogito-94ea2a1b-2414-43d9-9801-3c0508677fbb" ana="conqueror,explorer,colonizer">Domingo Martínez de Irala</persName><note resp="gabrielcalarco">Domingo Martínez de Irala (Vergara de la Hermandad de Guipúzcoa, Corona 
       de Castilla, 1509 - Asunción del Paraguay, Virreinato del Perú, 3 de 
       octubre de 1556) fue un conquistador, explorador y colonizador español 
@@ -8478,388 +8487,391 @@
       Plata y del Paraguay, con sede en Asunción, entre el 11 de diciembre de 
       1568 y el 14 dejulio de 1572.</note>, y la fundación de la ciudad de <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000023" xml:id="recogito-a95807da-5bc5-4871-a18d-7266e36ff52b" cert="high">Santa-Fe</placeName><note resp="gabrielcalarco">La ciudad de Santa Fe fue fundada por Juan de Garay en 1573 un poco más 
       al norte que la ubicación actual de la ciudad, en la localidad de 
-      Cayastá junto al río Paraná.</note>
-
-      Capítulo I
-      Cómo se publicaron las provisiones de Su Majestad, y de las cosas que en virtud de ellas hizo el Gobernador <persName xml:id="recogito-8a3fad0b-00e1-490d-b2de-0625bd172f28">Domingo de Irala</persName><note resp="gabrielcalarco">Domingo Martínez de Irala (Vergara de la Hermandad de Guipúzcoa, Corona 
-      de Castilla, 1509 - Asunción del Paraguay, Virreinato del Perú, 3 de 
-      octubre de 1556) fue un conquistador, explorador y colonizador español 
-      que como lugarteniente de Juan de Ayolas quien lo nombrara interinamente
-       hasta que regresara como teniente de gobernador de La Candelaria en 
-      1537, luego lo sería de hecho, y posteriormente elegido por el pueblo 
-      según real cédula, como teniente de gobernador general de Asunción.Ocupó
-       tres veces el cargo de gobernador interino del Río de la Plata y del 
-      Paraguay, en los períodos de 1539 a 1542, de 1544 hasta 1548 y por 
-      último desde 1549. El emperador Carlos V lo nombraría definitivamente 
-      como titular en el cargo gubernamental en el año 1555, que lo ostentaría
-       hasta su fallecimiento.En 1543 fundó en el Chaco Boreal el Puerto de 
-      los Reyes, a orillas del río Paraguay y del pantano de los Jarayes, 
-      sobre las costas de la laguna La Gaiba.</note>
-
-
-      Aunque las cosas de esta provincia y los sucesos de ella han sido tan difusas, he procurado de mi parte reducirlas al compendio más breve que me ha sido posible; y no pudiendo más, me ha sido forzoso extenderme algún tanto, para enhilar esta historia, y sacar a luz lo que la memoria tenía puesto en olvido: en especial habiendo de computar los casos sucedidos en los años pasados, así en esta provincia como en las comarcanas, hasta que por su discurso pudiese entrar en el tiempo de las cosas presentes: para cuyo presupuesto es de saber, que luego que <persName xml:id="recogito-58eee355-6d72-4639-9bd3-9ab4ca5e81a1">Domingo de Irala</persName><note resp="gabrielcalarco">Domingo Martínez de Irala (Vergara de la Hermandad de Guipúzcoa, Corona 
-      de Castilla, 1509 - Asunción del Paraguay, Virreinato del Perú, 3 de 
-      octubre de 1556) fue un conquistador, explorador y colonizador español 
-      que como lugarteniente de Juan de Ayolas quien lo nombrara interinamente
-       hasta que regresara como teniente de gobernador de La Candelaria en 
-      1537, luego lo sería de hecho, y posteriormente elegido por el pueblo 
-      según real cédula, como teniente de gobernador general de Asunción.Ocupó
-       tres veces el cargo de gobernador interino del Río de la Plata y del 
-      Paraguay, en los períodos de 1539 a 1542, de 1544 hasta 1548 y por 
-      último desde 1549. El emperador Carlos V lo nombraría definitivamente 
-      como titular en el cargo gubernamental en el año 1555, que lo ostentaría
-       hasta su fallecimiento.En 1543 fundó en el Chaco Boreal el Puerto de 
-      los Reyes, a orillas del río Paraguay y del pantano de los Jarayes, 
-      sobre las costas de la laguna La Gaiba.</note> recibió el pliego de Su Majestad, y la merced que le hacía del gobierno y administración de aquella provincia, con otras facultades y privilegios, mandó juntar a los oficiales reales de Su Majestad y capitulares de aquella república, donde, con la solemnidad debida, fueron vistas, y leídas; y en su cumplimiento, fue recibido al uso, ejercicio y administración de aquellas provincias, en nombre de Su Majestad. Se vieron así mismo otras provisiones y cédulas en favor de los conquistadores, y para les encomendar y repartir los indios naturales de aquella tierra, y nombrar personas necesarias de consejo, y cabildo, y oficiales de la real hacienda: y finalmente para hacer todas las ordenanzas necesarias en pro y utilidad así de los españoles y encomenderos, como de los indios naturales y encomendados. Para cuyo buen efecto trató en su consejo el orden que se debía tener, en lo que convenía, empadronando los indios de aquella jurisdicción para haberlos de repartir y encomendar como estaba dispuesto: de donde salió determinado despachar cuatro personas, que fuesen a hacer copia y padrón de todos los indios con distinción de 103 partidos y comarcas, que a cada uno se le señalaron. Y vueltos con sus padrones, se hallaron 27000 indios de guerra, desde el territorio de la dicha ciudad de la <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000006" xml:id="recogito-46c1845d-945c-468d-bf81-e6a647eeb15f" cert="high">Asumpción</placeName><note resp="gabrielcalarco">Asunción del Paraguay.</note>, cincuenta leguas hacia el Norte, y otras tantas para el Este y Mediodía, hasta el <placeName ref="http://sws.geonames.org/3841956" xml:id="recogito-dc43c6d7-1bdf-4db5-932d-e0061a50e7c1" ana="River" cert="high">río Paraná</placeName><note resp="gabrielcalarco">Hace referencia al río Paraná</note>; porque los de abajo y Occidente y otros comarcanos por ser de naciones diferentes, muy bárbaras e indomables, no se podían empadronar, y repartir por entonces. Para cuya causa, y haber tantos conquistadores y gente principal a quien repartir, era poca cantidad de indios la que estaba empadronada, y como el Gobernador era tan generoso y magnánimo, deseoso de hacer bien a todos, determinó repartir aquellos que habla, lo mejor que pudiese; hasta tanto que con otras poblaciones que se hiciesen, se remediase. Y así hizo el repartimiento de estos indios en 400 encomenderos, no con poca compasión que de ellos tenía, por haberles costado tan grandes y excesivos trabajos y miserias, como él les había visto pasar en aquella tierra; y ver cuan tenue era aquella repartición para recompensar tantos méritos: y la incomodidad de los naturales, que por ser tan pocos habían de ser muy trabajados: porque hubo muchas encomiendas de a 30 y 40 indios. Hecha la repartición, hizo ciertas ordenanzas muy convenientes al bien de los indios y encomenderos de la provincia y su buen gobierno y estado, que hoy día se guardan, por estar aprobadas por Su Majestad. Hizo así mismo regidores, alcaldes ordinarios y de la hermandad, que fueron, <persName xml:id="recogito-58f11058-8ef1-4d0c-882b-eb2b0c5a52f5" ana="conqueror,explorer,colonizer">Francisco Ortiz de Vergara</persName><note resp="gabrielcalarco">Francisco Ortiz
-      de Vergara fue un conquistador y colonizador español. Sucedió a Gonzalo de
-      Mendoza en el gobierno del Río de la Plata con sede en Asunción. Hijo de
-      Francisco de Vergara y Beatriz de Roelas. Fue nombrado por los conquistadores y
-      confirmado por el obispo Pedro de Latorre en 1558. Fue depuesto por la Real
-      Audiencia de Charcas en 1564 y regresó a España en 1565. Hermano de Ruy Díaz de
-      Melgarejo
-      En 1559 enfrento la rebelión de dos manzebos, Pablo y Don Narazio, hijos de un
-      Principal local llamado a Curupiratí de la tribu xaraje junto a Nufrio de
-      Chaves, el 3 de mayo de 1560 en los campos de Acahai o del Acaraiba Ortiz les
-      vence, el ejército rebelde dividido en cuatro cuerpos o columnas sumaba 16.000
-      guerreros guaraníes, la victoria se logró gracias a la llegada oportuna de
-      indios amigos, se mataron más de 1.000 rebeldes.
-      Durante su gobierno hubo numerosos intentos fallidos de crear nuevos
-      asentamientos (Sancti Spiritus, San Francisco y Santa Cruz de la Sierra). Este
-      último, en el sur de la Cuenca del Amazonas, fue un éxito, pero sólo después de
-      que la ciudad se había movido más de 200 kilómetros desde el lugar elegido por
-      Ñuflo de Chaves. El contrato de arrendamiento anterior fue cerca de San José de
-      Chiquitos, y es hoy un sitio arqueológico conocido como Santa Cruz la Vieja. Lo
-      sucedió el adelantado Juan Ortiz de Zárate.</note> y el capitán <persName xml:id="recogito-55b9b5fc-c5a0-4007-ad5c-4f685fd9952a" ana="conqueror,explorer,colonizer">Juan de Salazar de Espinosa</persName><note resp="gabrielcalarco">Juan de Salazar de Esponosa (Espinosa de los
-      Monteros, 1508 - Asunción, 1560) Conquistador español. En 1535 partió desde
-      Cádiz hacia la región del Río de la Plata como miembro de la expedición de
-      Pedro de Mendoza. Llegado a su destino en enero de 1536, fue enviado por
-      Mendoza en busca de Juan de Ayolas, que había sido enviado previamente a
-      explorar las inmediaciones de los ríos Paraná y Paraguay. 
-
-      En su camino se topó con
-      Domingo Martínez de Irala, que formaba parte de la misma expedición. El 15 de
-      agosto de 1537, Salazar fundó un fuerte al que bautizó con el nombre de Nuestra
-      Señora de la Asunción, y que a la larga se convertiría en la ciudad de
-      Asunción, capital de Paraguay. 
-
-      En 1544, durante la
-      sublevación contra el adelantado Álvar Núñez Cabeza de Vaca, fue expulsado y
-      enviado de regreso a España, pero tres años más tarde se le permitió regresar a
-      la zona en calidad de tesorero de los territorios rioplatenses. En los años
-      siguientes (1550-1555) desarrolló una gran labor colonizadora en todo el
-      territorio del actual Paraguay, y falleció cinco años más tarde en la ciudad
-      por él fundada.</note>; nombró por alguacil mayor de la provincia a <persName xml:id="recogito-6cd508f3-691b-4ab2-b390-d7155ce75f0e" ana="conqueror,explorer,colonizer">Alonso Riquelme de Guzmán</persName><note resp="gabrielcalarco">Alonso Riquelme de Guzmán (1519-1573) fue un conquistador oriundo de 
-      Jeréz de la Frontera y sobrino del Segundo Adelantado al Río de la 
-      Plata, Álvar Núñez Cabeza de Vaca, con quien llegó al Río de la Plata en
-       1541. Fue uno de sus más acérrimos partidarios durante la gobernación 
-      de Cabeza de Vaca y se convirtió en una de las figuras más prominentes 
-      de la facción de los &quot;leales&quot; una vez que aquel fuera expulsado de la 
-      provincia en 1545.Fue forzado por Domigo de Irala a casarse con una de 
-      sus hijas mestizas, unión de la cual nació Ruy Díaz de 
-      Guzmán.Bibliografía:Ricardo Lafuente Machaín, Alonso Riquelme de Guzmán,
-       Buenos Aires, Amorrurtu, 1942.Tieffemberg, Silvia, &quot;Estudio 
-      Introductorio&quot;, en Díaz de Guzmán, Ruy, Argentina. Historia del 
-      Descubrimiento y Conquista del Río de la Plata de Ruy Díaz de Guzmán, 
-      Buenos Aires, Editorial de la Facultad de Filosofía y Letras-UBA, 
-      2012.Fuentes &quot;Información hecha en Jerez de la Frontera a pedimento de 
-      Cabeza de Vaca para verificar ciertas cartas&quot;, en Núñez Cabeza de Vaca, 
-      Álvar, Relación de los Naufragios y Comentarios de Álvar Núñez Cabeza de
-       Vaca, adelantado y gobernador del Río de la Plata. Ilustrado con varios
-       documentos inéditos. Tomo Segundo, Madrid, Imprenta General de 
-      Victoriano Suárez, 1906, p. 289 (GGV 52/975; AGI Justicia 1131), 1545.</note>, y por subteniente general al capitán <persName xml:id="recogito-86200a28-0100-4b00-98e5-bdefcb0311c7" ana="conqueror,explorer,colonizer">Gonzalo de Mendoza</persName><note resp="gabrielcalarco">Gonzalo de Mendoza nace en Baeza entre
-      1511-1515. Muere el 21 de julio de 1558. Parte para el Nuevo Mundo desde el
-      puerto de Sanlúcar de Barrameda en 1535, en la nao capitana La Magdalena, con Pedro
-      de Mendoza, Adelantado del Río de la Plata. Co-fundador de la ciudad de
-      Asunción, en Paraguay, en 1537. Participó como elector en la creación de su
-      cabildo y regimiento, a la vieja usanza de los de las ciudades de Castilla. Participó,
-      entre muchas, en la expedición que, en 1547, partiendo de Asunción para la Sierra
-      de la Plata de los Mayas, abrió el camino hasta el Perú. Fue Gobernador del Río
-      de la Plata tras la muerte de Domingo de Irala, en 1556.</note>; con cuyas elecciones, y ordenanzas se hallaba la república, en esta sazón, con gran prosperidad: y con el regimiento y buen gobierno, ninguno excedía del límite que debía; procediendo cada cual a su oficio y arte y demás cosas necesarias, que en todo había particular cuidado. Tenían señalados dos maestros de niños, a cuyas escuelas acudían más de dos mil personas, donde eran enseñadas con muy buena doctrina, que era para alabar a Nuestro Señor: y esto en tanto grado, que el nuevo prelado dijo muchas veces en el púlpito, que estimaba y tenía en tanto aquel obispado, como el más calificado de <placeName ref="http://sws.geonames.org/3336900" xml:id="recogito-3b7f7165-8ff9-4e4c-b1b5-9648a65702c1" cert="high">Castilla</placeName>. Y puestas las cosas de la república y exterior en tan buen estado, se dio a las que convenían a lo espiritual, con tanto fervor y caridad del pastor y de sus ovejas, que parecía estar todos conjuntos y aunados, en una voluntad y benevolencia. Y fecho lo que convenía, el Gobernador y toda la república estaban con la conformidad y gobierno conveniente; así acerca de los españoles y encomenderos, como de los naturales indios de la provincia, como en adelante diremos.
-
-
-      Capítulo II
-      Cómo el Gobernador envió al capitán <persName xml:id="recogito-05f79793-d9a5-4bee-8f94-d37f92f85e3e" ana="conqueror,explorer,colinez">Pedro de Zabala Segura</persName><note resp="gabrielcalarco">El capitán Pedro de Segura Zabala, hidalgo de Guipuzcoa, había sido soldado imperial en Italia y más tarde viajó al 
-      Paraguay con Ñuflo de Chaves en 1549. Tuvo un rol destacado en Asunción y se casó con Ginebra Martínez de Irala, hija mestiza del gobernador Martínez de Irala. Falleció en 1601 en Tomina, alto Perú.</note> a despachar la nao que vino de <placeName ref="http://sws.geonames.org/3336900" xml:id="recogito-610bca4e-0282-472e-9b88-0a9d911bfc99" cert="high">Castilla</placeName> al puerto de <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000031" xml:id="recogito-cd386d6e-18f7-4fd5-8553-3cbd90629bc7" cert="high">San Gabriel</placeName><note resp="gabrielcalarco">Se refiere a la isla del mismo nombre en la costa uruguaya frente a Colonia.</note>
-
-
-      Pocos días después de la llegada de <persName xml:id="recogito-a0466a44-3bb3-4c08-85e5-e821dfe60b7d" ana="conqueror,explorer,colonizer">Martín de Orue</persName><note resp="gabrielcalarco">Conquistador español nacido en Orduña en 1517. Llegó a Rio
-      de la Plata con la expedición de Alonso Cabrera pero regreso muy pronto a
-      España por desaveniencias con el jefe de la expedición. Regresó nuevamente a
-      América en la expedición de Alvar Nuñez hacia el Paraguay y años más tarde se
-      enemistó con él, tomando parte en la revolución que le quitó el mando. Fue
-      hombre de confianza de Irala y más tarde lo fue también de Juan Ortiz de Zárate.</note> con el Obispo, don <persName xml:id="recogito-8d2a4fb2-d2d4-4bdf-9796-e4ba52f24d14" ana="Bishop">Fray Pedro de La-Torre</persName><note resp="gabrielcalarco">Fray Pedro
-      Fernández de la Torre, franciscano nacido en Baeza, España.,  hizo su solemne entrada en Asunción oficiar
-      como primer Obispo del Paraguay, en la víspera del Domingo de Ramos del año
-      1555. Llega con la armada de Martín de Orue, portador del Nombramiento real de
-      Martínez de Irala como Gobernador de aquella Provincia.</note>, llegó del <placeName ref="http://sws.geonames.org/3469034" xml:id="recogito-bf463b6e-4d9a-47a2-9ff8-21cb297e7dd5" cert="high">Brasil</placeName><note resp="gabrielcalarco">La costa de lo que hoy es territorio brasileño fue el primer punto al 
-      que llegaron los europeos en América del Sur. La primera expedición que 
-      exploró la región fue un desprendimiento de la flota portuguesa que 
-      Vasco da Gama (c. 1460-1524) llevaba hacia oriente. Las naves dirigidas 
-      por Pedro Álvarez de Cabral (1467-1520) se alejaron excesivamente de la 
-      costa de África y terminaron en el extremo sur de actual territorio del 
-      Estado de Bahía, en que el permanecieron entre abril y mayo del año 
-      1500. Los portuguese establecieron en la costa precarias feitorias para 
-      comerciar verzino o palo brasil con los nativos de las sociedades tupí y
-       guaraní nativas. Recién en 1530 la corona brasileña tomaría acciones 
-      decididas para organizar la ocupación portuguesa y las actividades de 
-      explotación, cuando instaura el régimen de capitanías hereditarias que 
-      estructuraría el establecimiento colonial lusitano en brasil. 
-      Bibliografía: Johnson, H. B., &quot;Portuguese Settlement, 1500-1580&quot;, en 
-      Bethell, Leslie (ed.), Colonial Brazil, Cambridge, Cambridge University 
-      Press, 1987, pp. 1-38; Abulafia, David, El descubrimiento de la 
-      humanidad. Encuentros atlánticos en la era de Colón, Barcelona, Crítica,
-       2009 [2008]; Metcalf, Alida C., Go-Betweens and the Colonization of 
-      Brazil, 1500-1600, Austin, University of Texas Press, 2005; Vaz de 
-      Caminha, Pêro, Carta del descubrimiento del Brasil, Barcelona, 
-      Acantilado, 2009.</note> <persName xml:id="recogito-d4118902-db65-41c7-9a72-f77a57c3cfd9" ana="conqueror,explorer,colonizer">Esteban de Vergara</persName><note resp="gabrielcalarco">Sobrino de Domingo Martínez de Irala. En 1554 su tío lo envió a Madrid
-      para que diese cuenta al rey de sus servicios. Regresó a Asunción, llegando por
-      tierra desde Brasil, con el nombramiento del rey para Martínez de Irala como
-      gobernador del Río de la Plata.</note> con el duplicado del pliego de Su Majestad, para el Gobernador, en que venían otras cédulas y provisiones reales, en conformidad de las nuevas ordenanzas que Su Majestad hizo en <placeName ref="http://sws.geonames.org/3128760" xml:id="recogito-8219d83a-bcb0-4547-9613-8324399fb264" ana="city" cert="high">Barcelona</placeName> para el buen gobierno de las <placeName ref="http://sws.geonames.org/6255150" xml:id="recogito-8793dceb-2993-49bd-98c8-5671eeb27f05" cert="high">Indias</placeName><note resp="gabrielcalarco">Tradicionalmente, el nombre fue dado a las posesiones europeas en los 
-      nuevos territorios descubiertos y por descubrir en América, y que se dio
-       inicio con la llegada de Cristóbal Colón en el siglo XV, quien por otro
-       lado desconocía que en su viaje de circunnavegación había llegado a un 
-      Nuevo Mundo, en lugar de a las Indias. De aquí deriva el título de Rey 
-      de las Islas y Tierra Firme del mar Océano que por tradición histórica 
-      está vinculado a la monarquía española.Con la exploración y la 
-      cartografía del Nuevo Mundo por España, las más alejadas costas de Asia 
-      fueron llamadas &quot;Indias Orientales&quot; para distinguirlos de las nuevas 
-      tierras descubiertas más próximas al oeste, y que se denominaron Indias 
-      Occidentales. Las exploraciones y los estudios de cartografía 
-      extendieron la denominación de América en Europa para designar 
-      popularmente las nuevas tierras descubiertas.</note>; con algunas bulas apostólicas, e indulgencias concedidas a las iglesias y cofradías de aquella ciudad, en especial a la iglesia de Santa Lucía, a quien fueron concedidas grandes y plenarias indulgencias, de que recreció a todos los fieles suma devoción y consuelo. Y habiendo de dar cuenta a Su Majestad del estado de la tierra en la nao que quedó en la boca del <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9001006" xml:id="recogito-e708b15f-2bc8-41a7-9e4e-870a68e8aceb" cert="high">Río de la Plata</placeName><note resp="gabrielcalarco">Refiere a la Provincia del Río de la Plata, un espacio creado a partir 
-      de las capitulaciones que firmó el primer adelantado Pedro de Mendoza 
-      con Carlos I en 1534.La misma limitaba al norte con los territorios 
-      otorgados a Diego de Almagro, ocupando una franja que se extendería 
-      entre el Mar del Sur y el Mar Océano Austral. La exploración y ocupación
-       efectiva del terreno delimitarían el espacio de la provincia del Río de
-       la Plata al sector atlántico y específicamente, al eje fluvial 
-      Paraná-Plata.</note>, en la isla de <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000031" xml:id="recogito-122f479f-fde7-4196-826b-2f4732248c9b" cert="high">San Gabriel</placeName><note resp="gabrielcalarco">Se refiere a la isla del mismo nombre en la costa uruguaya frente a Colonia.</note>, se despachó al capitán <persName xml:id="recogito-5e62b665-ab80-4078-8127-f3991ee458fe" ana="conqueror,explorer,colonizer">Pedro de Segura</persName><note resp="gabrielcalarco">El capitán Pedro de Segura Zabala, hidalgo de Guipuzcoa, había sido 
-      soldado imperial en Italia y más tarde viajó al 
-      Paraguay con Ñuflo de Chaves en 1549. Tuvo un rol destacado en Asunción y
-       se casó con Ginebra Martínez de Irala, hija mestiza del gobernador 
-      Martínez de Irala. Falleció en 1601 en Tomina, alto Perú.</note> con los pliegos y despachos que se enviaron al real consejo; y para que bajo de sus órdenes fuesen los pasajeros que habían de ir a <placeName ref="http://sws.geonames.org/3336900" xml:id="recogito-48967a33-d15a-48cc-a64e-92d78372681a" cert="high">Castilla</placeName>, y traer todo lo que en la nao había quedado de armas y municiones de Su Majestad, que enviaba para el sustentó y conquista de está Provincia. Y así salió de esta ciudad en un bergantín, con una compañía de soldados, donde así mismo iba el capitán <persName xml:id="recogito-f655eee5-509d-4e50-bded-6e5bcb79fd68" ana="conqueror,explorer,colonizer">García Rodríguez</persName><note resp="gabrielcalarco">Natural de
-      la ciudad de Fontiveros en la provincia de Ávila. En 1554 fundó la villa de Ontiveros
-      por orden de Martínez de Irala, en la margen izquierda del río Paraná entre los
-      ríos Iguazú y Piquirí, unos 50 kilómetros al norte del Salto del Guairá, en
-      tierras del cacique Canendiyú, con el objeto de servir como enlace con el
-      Brasil.</note> para <placeName ref="http://sws.geonames.org/3336900" xml:id="recogito-59059637-8af4-46c1-aa45-695218fa2123" cert="high">Castilla</placeName>, por orden del Rey, y don <persName xml:id="recogito-045ee6a1-b117-4e02-9bcf-c1566c803e98">Diego Barúa</persName>, del orden de San Juan, por llamamiento de su Gran Maestre: para lo cual, y lo demás que acerca de la real hacienda se había de traer, se le dio por el Gobernador y oficiales reales a <persName xml:id="recogito-1c5ab923-f478-4190-a0f9-2f280adb42c4" ana="conqueror,explorer,colonizer">Pedro de Segura</persName><note resp="gabrielcalarco">El capitán Pedro de Segura Zabala, hidalgo de Guipuzcoa, había sido 
-      soldado imperial en Italia y más tarde viajó al 
-      Paraguay con Ñuflo de Chaves en 1549. Tuvo un rol destacado en Asunción y
-       se casó con Ginebra Martínez de Irala, hija mestiza del gobernador 
-      Martínez de Irala. Falleció en 1601 en Tomina, alto Perú.</note>, la comisión y despacho conveniente; en virtud de la cual, habiendo llegado donde estaba la nao proveída de lo necesario, embarcó la gente y pasajeros y la despachó. También se embarcó en este navío <persName xml:id="recogito-1f2a2aa5-e729-4398-9dd7-de2e8d068f75">Jaime Resquin</persName> de quien ya hemos hecho mención; el cual llegado a <placeName ref="http://sws.geonames.org/3336900" xml:id="recogito-eb8e40cf-3de7-4c98-93aa-a5d78fb10721" cert="high">Castilla</placeName> fue proveído por Gobernador de esta provincia: y por ciertos sucesos que en el mar tuvo, no llegó con su armada a ella, siendo una de las mejores Y más gruesas que habían salido para esta conquista. Despachada, como tengo dicho, la nao y pasajeros, volvió el capitán <persName xml:id="recogito-dcfb528e-40ab-44e8-bd0d-f9ccb8fa42fa" ana="conqueror,explorer,colonizer">Pedro de Segura</persName><note resp="gabrielcalarco">El capitán Pedro de Segura Zabala, hidalgo de Guipuzcoa, había sido 
-      soldado imperial en Italia y más tarde viajó al 
-      Paraguay con Ñuflo de Chaves en 1549. Tuvo un rol destacado en Asunción y
-       se casó con Ginebra Martínez de Irala, hija mestiza del gobernador 
-      Martínez de Irala. Falleció en 1601 en Tomina, alto Perú.</note> en su bergantín el río arriba, trayendo en su compañía las personas que habían venido de <placeName ref="http://sws.geonames.org/3336900" xml:id="recogito-0281aeeb-5ea0-4929-a87f-28439004f828" cert="high">Castilla</placeName>, y quedaron en la nao: entre los cuales venía el capitán <persName xml:id="recogito-cc43e414-0898-49e5-a37e-f4970ffca79f">Gonzalo de Acosta</persName> con dos hijas suyas, que la una de ellas casó con el contador <persName xml:id="recogito-894f0bcf-521f-4412-902e-f328ec321057" ana="conqueror,explorer,colonizer">Felipe de Cáceres</persName><note resp="gabrielcalarco">Felipe de Cáceres (n. Madrid, ca. 1538) fue un conquistador, explorador y
-       colonizador español. Se desempeñó como gobernador interino del Río de la 
-      Plata y del Paraguay, con sede en Asunción, entre el 11 de diciembre de 
-      1568 y el 14 dejulio de 1572.</note>. Llegó a la <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000006" xml:id="recogito-2649a93d-e74c-4d7b-95ad-4b09f21c40be" cert="high">Asumpción</placeName><note resp="gabrielcalarco">Asunción del Paraguay.</note> este hidalgo portugués, que había ido por capitán en la carabela en que fue preso <persName xml:id="recogito-0a359155-a697-46b1-87b5-f15c6e4daa65" ana="adelantado,explorer,author,conqueror">Álvaro Núñez Cabeza de Vaca</persName><note resp="gabrielcalarco">Álvar Núñez Cabeza de Vaca (Jerez de la Frontera, 1488/1490 - Sevilla, 
-      27 de mayo de 1559) fue un descubridor y conquistador español que 
-      exploró la costa sur de Norteamérica desde la actual Florida pasando por
-       Alabama, Misisipi y Luisiana y se adentró en Texas, Nuevo México, 
-      Arizona​ y en el norte de México hasta llegar al Golfo de California, 
-      territorios que pasaron a anexionarse al Imperio Español dentro del 
-      Virreinato de Nueva España. El rey Carlos I de España le otorgó el 
-      título de Segundo Adelantado y lo nombró capitán general y gobernador 
-      del Río de la Plata, Paranáguazu y sus anexos.​ Fue el primer europeo del cual tenemos pruebas documentales respecto de 
-      sus exploraciones en la región de las cataratas del Iguazú. Están 
-      documentadas numerosas referencias sobre entradas que antiguos náufragos
-       de los barcos de Juan Díaz de Solís (1470-1516) y Rodrigo de Acuña 
-      habrían realizado en la zona, siendo la más famosa la de Alejo o Aleixo 
-      García.Cabeza de Vaca llegó a la isla de Santa Catalina en 1541 y de 
-      allí entró en tierra firme con el objetivo de alcanzar la ciudad de 
-      Asunción del Paraguay. La misma se había convertido en el centro de la 
-      conquista del Río de la Plata. Si bien los conquistadores viejos de la 
-      expedición de Pedro de Mendoza aceptaron sus credenciales cuando entró 
-      en la ciudad en 1542, las políticas que Cabeza de Vaca intentó instalar 
-      en la región rápidamente entraron en conflicto con aquellas que 
-      pretendían sostener sus fundadores y primeros conquistadores. La 
-      situación se deterioró progresivamente hasta que, después de una 
-      fracasada entrada al Gran Chaco, Cabeza de Vaca fue encarcelado y luego 
-      expulsado de la provincia en 1545.Tras regresar a España, el antiguo 
-      adelantado debió responder a los procesos que contra él entablaron los 
-      conquistadores del Río de la Plata y el propio fiscal del rey, que se 
-      extendieron hasta entrada la década de 1550. Si bien Álvar Núñez no 
-      logró recuperar la gobernación del Río de la Plata, tampoco debió 
-      enfretar las penas que originalmente se le habían impuesto (multas y un 
-      temido destierro a Argel). Una clara señal de cierto beneplácito regio 
-      respecto de sus acciones en Indias es la reedición, en 1555, de su 
-      Relación (Zamora, 1542) acompañada de un nuevo libro titulado 
-      Comentarios (valladolid, 1555). Este último constituye la primera obra 
-      historiográfica de largo aliento sobre la conquista del Río de la Plata,
-       considerando en particular el período de su 
-      gobernación.BibliografíaAdorno, Rolena; Pautz, Patrick Charles, Álvar 
-      Núñez Cabeza de Vaca. His Account, his Life, and the Expedition of 
-      Pánfilo de Narváez, Lincoln y Londres, University of Nebraska Press, 
-      1999. Tres Tomos.FuentesÁlvar Núñez Cabeza de Vaca, La relación que dio 
-      Alvar Núñez Cabeça de Vaca de lo acaecido en las Indias en la armada 
-      donde iua por gobernador Panfhilo de Narváez desde el año veinte y siete
-       hasta el año treinta y seis que volvió a Sevilla con tres de su 
-      compañía, Zamora, 1542.Álvar Núñez Cabeza de Vaca, La relación y 
-      comentarios del Gobernador Álvar Núñez Cabeça de Vaca, de lo acaecido en
-       las dos jornadas que hizo a las Indias, Valladolid, 1555.</note>, y por orden de Su Majestad volvió por piloto mayor de la armada a esta provincia, que con próspero suceso hicieron su viaje hasta tomar la boca del <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9001006" xml:id="recogito-0fdd02ab-8641-414e-88f1-e2c57dcd3ebd" cert="high">Río de la Plata</placeName><note resp="gabrielcalarco">Refiere a la Provincia del Río de la Plata, un espacio creado a partir 
-      de las capitulaciones que firmó el primer adelantado Pedro de Mendoza 
-      con Carlos I en 1534.La misma limitaba al norte con los territorios 
-      otorgados a Diego de Almagro, ocupando una franja que se extendería 
-      entre el Mar del Sur y el Mar Océano Austral. La exploración y ocupación
-       efectiva del terreno delimitarían el espacio de la provincia del Río de
-       la Plata al sector atlántico y específicamente, al eje fluvial 
-      Paraná-Plata.</note>. Fueron repartidas muchas de dichas armas a los soldados y personas que las habían menester, en moderados precios, con acuerdo y parecer de los oficiales reales y del Gobernador. Después de lo cual despachó <persName xml:id="recogito-e84a2cf6-052a-482a-a618-28dd74696e3d">Domingo de Irala</persName><note resp="gabrielcalarco">Domingo Martínez de Irala (Vergara de la Hermandad de Guipúzcoa, Corona 
-      de Castilla, 1509 - Asunción del Paraguay, Virreinato del Perú, 3 de 
-      octubre de 1556) fue un conquistador, explorador y colonizador español 
-      que como lugarteniente de Juan de Ayolas quien lo nombrara interinamente
-       hasta que regresara como teniente de gobernador de La Candelaria en 
-      1537, luego lo sería de hecho, y posteriormente elegido por el pueblo 
-      según real cédula, como teniente de gobernador general de Asunción.Ocupó
-       tres veces el cargo de gobernador interino del Río de la Plata y del 
-      Paraguay, en los períodos de 1539 a 1542, de 1544 hasta 1548 y por 
-      último desde 1549. El emperador Carlos V lo nombraría definitivamente 
-      como titular en el cargo gubernamental en el año 1555, que lo ostentaría
-       hasta su fallecimiento.En 1543 fundó en el Chaco Boreal el Puerto de 
-      los Reyes, a orillas del río Paraguay y del pantano de los Jarayes, 
-      sobre las costas de la laguna La Gaiba.</note> al capitán <persName xml:id="recogito-9c253b06-9ce5-4087-aaf8-a43fa34b19ca" ana="conqueror,explorer,colonizer">Nuflo de Chaves</persName><note resp="gabrielcalarco">Ñuflo de Chaves nació en Santa Cruz de la Sierra, de Extremadura,
-      en 1518. Llegó a territorio americano con el segundo adelantado del Río de la
-      Plata, Don Alvar Núñez Cabeza de Vaca”. Cuando la flota llega al puerto de
-      Santa Catalina en el año 1541, ya ostentaba el grado de Capitán. Cuando el
-      gobernador Martínez de Irala le encomienda fundar al norte de Asunción, Chaves
-      se convierte así en General. El 26 de febrero de 1561 fundó Santa Cruz de la
-      Sierra a orillas del arroyo Sutó. Después de fundada Santa Cruz de la
-      Sierra, Ñuflo de Chaves se dirige a Asunción, en 1564,  para recoger
-      a su familia. En 1550 se había casado con Doña Elvira Manrique, hija de don
-      Francisco de Mendoza, gobernador del Río de la Plata, con quien tuvo cinco
-      hijos: Francisco y Alvaro, ambos militares; María, Catalina y Elvira; las
-      dos menores monjas y la mayor se casó en 1574 con un soldado de apellido
-      Ossorio. El nieto de Ñuflo, Cap. Francisco Ossorio de Chaves, estuvo como
-      Alcalde durante la traslación de  la ciudad, hasta su
-      asiento definitivo a orillas del Piraí (1621).</note> a la provincia de <placeName ref="http://sws.geonames.org/3461995" xml:id="recogito-91bb87f5-58b5-4860-95b0-90ff2b866f77" cert="high">Guayra</placeName><note resp="gabrielcalarco">Es una amplia región comprendida dentro de la Gobernación del Río de la 
-      Plata y el océano Atlántico, en el actual territorio brasileño. Fue 
-      colonizada desde Asunción del Paraguay, pero las constantes incursiones 
-      de los bandeirantes portugueses frenaron su expansión.</note>, para que redujese a los naturales de aquella tierra, y remediase el desorden de los portugueses del <placeName ref="http://sws.geonames.org/3469034" xml:id="recogito-f5f36959-9b55-46cb-9561-b803e46c5802" cert="high">Brasil</placeName><note resp="gabrielcalarco">La costa de lo que hoy es territorio brasileño fue el primer punto al 
-      que llegaron los europeos en América del Sur. La primera expedición que 
-      exploró la región fue un desprendimiento de la flota portuguesa que 
-      Vasco da Gama (c. 1460-1524) llevaba hacia oriente. Las naves dirigidas 
-      por Pedro Álvarez de Cabral (1467-1520) se alejaron excesivamente de la 
-      costa de África y terminaron en el extremo sur de actual territorio del 
-      Estado de Bahía, en que el permanecieron entre abril y mayo del año 
-      1500. Los portuguese establecieron en la costa precarias feitorias para 
-      comerciar verzino o palo brasil con los nativos de las sociedades tupí y
-       guaraní nativas. Recién en 1530 la corona brasileña tomaría acciones 
-      decididas para organizar la ocupación portuguesa y las actividades de 
-      explotación, cuando instaura el régimen de capitanías hereditarias que 
-      estructuraría el establecimiento colonial lusitano en brasil. 
-      Bibliografía: Johnson, H. B., &quot;Portuguese Settlement, 1500-1580&quot;, en 
-      Bethell, Leslie (ed.), Colonial Brazil, Cambridge, Cambridge University 
-      Press, 1987, pp. 1-38; Abulafia, David, El descubrimiento de la 
-      humanidad. Encuentros atlánticos en la era de Colón, Barcelona, Crítica,
-       2009 [2008]; Metcalf, Alida C., Go-Betweens and the Colonization of 
-      Brazil, 1500-1600, Austin, University of Texas Press, 2005; Vaz de 
-      Caminha, Pêro, Carta del descubrimiento del Brasil, Barcelona, 
-      Acantilado, 2009.</note> que tenían entrado en los términos de este gobierno, asaltando los pueblos de los indios naturales, para llevarlos presos y cautivos al <placeName ref="http://sws.geonames.org/3469034" xml:id="recogito-0e027a52-9335-4af7-af69-fca30554bc9f" cert="high">Brasil</placeName><note resp="gabrielcalarco">La costa de lo que hoy es territorio brasileño fue el primer punto al 
-      que llegaron los europeos en América del Sur. La primera expedición que 
-      exploró la región fue un desprendimiento de la flota portuguesa que 
-      Vasco da Gama (c. 1460-1524) llevaba hacia oriente. Las naves dirigidas 
-      por Pedro Álvarez de Cabral (1467-1520) se alejaron excesivamente de la 
-      costa de África y terminaron en el extremo sur de actual territorio del 
-      Estado de Bahía, en que el permanecieron entre abril y mayo del año 
-      1500. Los portuguese establecieron en la costa precarias feitorias para 
-      comerciar verzino o palo brasil con los nativos de las sociedades tupí y
-       guaraní nativas. Recién en 1530 la corona brasileña tomaría acciones 
-      decididas para organizar la ocupación portuguesa y las actividades de 
-      explotación, cuando instaura el régimen de capitanías hereditarias que 
-      estructuraría el establecimiento colonial lusitano en brasil. 
-      Bibliografía: Johnson, H. B., &quot;Portuguese Settlement, 1500-1580&quot;, en 
-      Bethell, Leslie (ed.), Colonial Brazil, Cambridge, Cambridge University 
-      Press, 1987, pp. 1-38; Abulafia, David, El descubrimiento de la 
-      humanidad. Encuentros atlánticos en la era de Colón, Barcelona, Crítica,
-       2009 [2008]; Metcalf, Alida C., Go-Betweens and the Colonization of 
-      Brazil, 1500-1600, Austin, University of Texas Press, 2005; Vaz de 
-      Caminha, Pêro, Carta del descubrimiento del Brasil, Barcelona, 
-      Acantilado, 2009.</note>, donde los vendían y herraban por esclavos. Y con esta orden salió <persName xml:id="recogito-519711a7-41ce-4da3-ae5a-8f3bf0e0a223" ana="conqueror,explorer,colonizer">Nuflo de Chaves</persName><note resp="gabrielcalarco">Ñuflo de Chaves nació en Santa Cruz de la Sierra, de Extremadura,
-      en 1518. Llegó a territorio americano con el segundo adelantado del Río de la
-      Plata, Don Alvar Núñez Cabeza de Vaca”. Cuando la flota llega al puerto de
-      Santa Catalina en el año 1541, ya ostentaba el grado de Capitán. Cuando el
-      gobernador Martínez de Irala le encomienda fundar al norte de Asunción, Chaves
-      se convierte así en General. El 26 de febrero de 1561 fundó Santa Cruz de la
-      Sierra a orillas del arroyo Sutó. Después de fundada Santa Cruz de la
-      Sierra, Ñuflo de Chaves se dirige a Asunción, en 1564,  para recoger
-      a su familia. En 1550 se había casado con Doña Elvira Manrique, hija de don
-      Francisco de Mendoza, gobernador del Río de la Plata, con quien tuvo cinco
-      hijos: Francisco y Alvaro, ambos militares; María, Catalina y Elvira; las
-      dos menores monjas y la mayor se casó en 1574 con un soldado de apellido
-      Ossorio. El nieto de Ñuflo, Cap. Francisco Ossorio de Chaves, estuvo como
-      Alcalde durante la traslación de  la ciudad, hasta su
-      asiento definitivo a orillas del Piraí (1621).</note> con una compañía de soldados, y llegó al río del <placeName ref="http://sws.geonames.org/3841956" xml:id="recogito-ac95da98-2f78-42b0-adb7-b565efc4cd97" cert="high">Paraná</placeName><note resp="gabrielcalarco">Se refiere al Río Paraná.</note>, poniendo en orden aquella tierra, y procurando conservar la paz y amistad de los naturales; y con su acuerdo pasó adelante, y entró por otro río que viene de la costa del <placeName ref="http://sws.geonames.org/3469034" xml:id="recogito-50d1d5b4-383e-4ce6-9065-392229715cb7" cert="high">Brasil</placeName><note resp="gabrielcalarco">La costa de lo que hoy es territorio brasileño fue el primer punto al 
-      que llegaron los europeos en América del Sur. La primera expedición que 
-      exploró la región fue un desprendimiento de la flota portuguesa que 
-      Vasco da Gama (c. 1460-1524) llevaba hacia oriente. Las naves dirigidas 
-      por Pedro Álvarez de Cabral (1467-1520) se alejaron excesivamente de la 
-      costa de África y terminaron en el extremo sur de actual territorio del 
-      Estado de Bahía, en que el permanecieron entre abril y mayo del año 
-      1500. Los portuguese establecieron en la costa precarias feitorias para 
-      comerciar verzino o palo brasil con los nativos de las sociedades tupí y
-       guaraní nativas. Recién en 1530 la corona brasileña tomaría acciones 
-      decididas para organizar la ocupación portuguesa y las actividades de 
-      explotación, cuando instaura el régimen de capitanías hereditarias que 
-      estructuraría el establecimiento colonial lusitano en brasil. 
-      Bibliografía: Johnson, H. B., &quot;Portuguese Settlement, 1500-1580&quot;, en 
-      Bethell, Leslie (ed.), Colonial Brazil, Cambridge, Cambridge University 
-      Press, 1987, pp. 1-38; Abulafia, David, El descubrimiento de la 
-      humanidad. Encuentros atlánticos en la era de Colón, Barcelona, Crítica,
-       2009 [2008]; Metcalf, Alida C., Go-Betweens and the Colonization of 
-      Brazil, 1500-1600, Austin, University of Texas Press, 2005; Vaz de 
-      Caminha, Pêro, Carta del descubrimiento del Brasil, Barcelona, 
-      Acantilado, 2009.</note>, llamado <placeName ref="http://sws.geonames.org/3455061" xml:id="recogito-44642293-c3b9-43cc-8b58-be0bbc6c84a1" cert="high">Paranapané</placeName><note resp="romideleon">Río Paranapanema o Paranapané, desembocadura río Paraná. http://en.wikipedia.org/wiki/Paranapanema_River</note>, muy poblado de grandes y gruesos pueblos, de quienes fue bien recibido: y dejando este río, navegó por otro, que entra en él a mano derecha, llamado Atibajiba, muy caudaloso y corriente de muchos arrecifes y saltos, todo el poblado de una multitud de indios: y pasando por ellos, llegó a los fronterizos, que estaban con fuertes palizadas, por sus enemigos <persName xml:id="recogito-dbf36e10-8b93-44d7-ad35-cc2df1a71c3d" ana="tribe">Tupís</persName><note resp="gabrielcalarco">Tupíes, parcialidad perteneciente al tronco lingüístico Tupí-Guaraní y 
-      que tenía uno de sus principales asentamientos en la Bahía de Guanabara.
-       Más arriba aparecen mecionado como tupinamás.</note> y <persName xml:id="recogito-28fc9982-5e39-4dd9-8dda-6f4f14a9c6b0">Tobayarás</persName><note resp="romideleon">Pueblos
-      septentrionales del Brasil. Enemigos de los del Guayra (Nota del autor).
-      [Fueron los primeros aliados de los portugueses en el Brasil.
-      Habitaban las cercanías de Pernambuco, y ayudaron a Duarte
-      Coelho Pereyra a rechazar a los Cahélés, que lo
-      estorbaban en la fundación de Olinda. El Rey de Portugal
-      condecoró con la orden de Cristo a un cacique de esta tribu,
-      por los servicios que le había prestado. Tobayaras es voz genuina del idioma
-      guaraní, lo que prueba cuan dilatado fue su imperio. Este
-      nombre equivale a competidor, o adversario, de toba, cara, y ya estar: «el que está en
-      cara, o al frente de alguno»; que expresa la enemistad, que,
-      según el autor, estos pueblos tenían con los del
-      Guayra. (Nota del editor)]</note> del <placeName ref="http://sws.geonames.org/3469034" xml:id="recogito-9b197c2a-670a-4c7e-afd3-414f1cb0500e" cert="high">Brasil</placeName><note resp="gabrielcalarco">La costa de lo que hoy es territorio brasileño fue el primer punto al 
-      que llegaron los europeos en América del Sur. La primera expedición que 
-      exploró la región fue un desprendimiento de la flota portuguesa que 
-      Vasco da Gama (c. 1460-1524) llevaba hacia oriente. Las naves dirigidas 
-      por Pedro Álvarez de Cabral (1467-1520) se alejaron excesivamente de la 
-      costa de África y terminaron en el extremo sur de actual territorio del 
-      Estado de Bahía, en que el permanecieron entre abril y mayo del año 
-      1500. Los portuguese establecieron en la costa precarias feitorias para 
-      comerciar verzino o palo brasil con los nativos de las sociedades tupí y
-       guaraní nativas. Recién en 1530 la corona brasileña tomaría acciones 
-      decididas para organizar la ocupación portuguesa y las actividades de 
-      explotación, cuando instaura el régimen de capitanías hereditarias que 
-      estructuraría el establecimiento colonial lusitano en brasil. 
-      Bibliografía: Johnson, H. B., &quot;Portuguese Settlement, 1500-1580&quot;, en 
-      Bethell, Leslie (ed.), Colonial Brazil, Cambridge, Cambridge University 
-      Press, 1987, pp. 1-38; Abulafia, David, El descubrimiento de la 
-      humanidad. Encuentros atlánticos en la era de Colón, Barcelona, Crítica,
-       2009 [2008]; Metcalf, Alida C., Go-Betweens and the Colonization of 
-      Brazil, 1500-1600, Austin, University of Texas Press, 2005; Vaz de 
-      Caminha, Pêro, Carta del descubrimiento del Brasil, Barcelona, 
-      Acantilado, 2009.</note> y de los portugueses de aquella costa. Donde habiéndolo asegurado con papeles y cartas que les dio, para aquella gente, fue revolviendo por otro río, y saltando en tierra en los pinales de aquel territorio, visitó a los indios que por allí había, y puso freno a la libertad y malicia de sus enemigos, que como tengo dicho los molestaba. Hecho esto, dio vuelta por otro camino, y llegando a una comarca de indios que llaman <persName xml:id="recogito-4273b441-c8a3-497b-96e1-6c5757c27563" ana="tribe">Peabeyú</persName>, determinaron dar sobre él; y un día, estando alojado, acometieron al real gran multitud de indios, inducidos de un hechicero que ellos tenían por santo, llamado <persName xml:id="recogito-143f7b15-245c-4e3f-80a5-954d2ddd5348">Cutiguara</persName>, que les dijo que los españoles traían consigo pestilencia y mala doctrina; por lo cual se habían de perder y consumir, y que toda la pretensión de ellos era quitar a los indios sus mujeres y hijas, y reconocer aquellas tierras, para venirlas después a poblar y sujetar. Y con esto se convocaron para hacerles guerra; y con confianza de salir vencedores, se pusieron en campaña, y cercaron a los españoles, y con tal furia y determinación los acometieron, que si <persName xml:id="recogito-4d107713-bf60-48dd-bd02-376d8a05a0d8" ana="conqueror,explorer,colonizer">Nuflo de Chaves</persName><note resp="gabrielcalarco">Ñuflo de Chaves nació en Santa Cruz de la Sierra, de Extremadura,
-      en 1518. Llegó a territorio americano con el segundo adelantado del Río de la
-      Plata, Don Alvar Núñez Cabeza de Vaca”. Cuando la flota llega al puerto de
-      Santa Catalina en el año 1541, ya ostentaba el grado de Capitán. Cuando el
-      gobernador Martínez de Irala le encomienda fundar al norte de Asunción, Chaves
-      se convierte así en General. El 26 de febrero de 1561 fundó Santa Cruz de la
-      Sierra a orillas del arroyo Sutó. Después de fundada Santa Cruz de la
-      Sierra, Ñuflo de Chaves se dirige a Asunción, en 1564,  para recoger
-      a su familia. En 1550 se había casado con Doña Elvira Manrique, hija de don
-      Francisco de Mendoza, gobernador del Río de la Plata, con quien tuvo cinco
-      hijos: Francisco y Alvaro, ambos militares; María, Catalina y Elvira; las
-      dos menores monjas y la mayor se casó en 1574 con un soldado de apellido
-      Ossorio. El nieto de Ñuflo, Cap. Francisco Ossorio de Chaves, estuvo como
-      Alcalde durante la traslación de  la ciudad, hasta su
-      asiento definitivo a orillas del Piraí (1621).</note> no se hubiera fortificado, sin ninguna duda los acabaran aquel día: mas defendiéndose los nuestros con gran valor, fue Dios servido librarlos de este aprieto, donde mataron muchos enemigos, con pérdida de alguna gente de la nuestra, y de tres españoles. Y saliendo de este distrito, bajó a unos palmares que cortan aquella tierra, muy ocupada de pueblos de indios, con los cuales tuvo algunos reencuentros; y pacificándolos con buenas razones y dádivas, los redujo y dejó en paz y quietud, trayendo consigo algunos indios principales, y, cabezas de aquella tierra a la ciudad de la <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000006" xml:id="recogito-cb3fab56-fd08-4a6f-8000-6a334a73c06c" cert="high">Asumpción</placeName><note resp="gabrielcalarco">Asunción del Paraguay.</note>, donde todos ellos fueron bien recibidos y tratados del Gobernador.
-
-
-      Capítulo III
+      Cayastá junto al río Paraná.</note></p>
+      <div>
+       <head>Capítulo I</head>
+       <p>Cómo se publicaron las provisiones de Su Majestad, y de las cosas que en virtud de ellas hizo el Gobernador <persName xml:id="recogito-8a3fad0b-00e1-490d-b2de-0625bd172f28">Domingo de Irala</persName><note resp="gabrielcalarco">Domingo Martínez de Irala (Vergara de la Hermandad de Guipúzcoa, Corona 
+        de Castilla, 1509 - Asunción del Paraguay, Virreinato del Perú, 3 de 
+        octubre de 1556) fue un conquistador, explorador y colonizador español 
+        que como lugarteniente de Juan de Ayolas quien lo nombrara interinamente
+        hasta que regresara como teniente de gobernador de La Candelaria en 
+        1537, luego lo sería de hecho, y posteriormente elegido por el pueblo 
+        según real cédula, como teniente de gobernador general de Asunción.Ocupó
+        tres veces el cargo de gobernador interino del Río de la Plata y del 
+        Paraguay, en los períodos de 1539 a 1542, de 1544 hasta 1548 y por 
+        último desde 1549. El emperador Carlos V lo nombraría definitivamente 
+        como titular en el cargo gubernamental en el año 1555, que lo ostentaría
+        hasta su fallecimiento.En 1543 fundó en el Chaco Boreal el Puerto de 
+        los Reyes, a orillas del río Paraguay y del pantano de los Jarayes, 
+        sobre las costas de la laguna La Gaiba.</note>
+        
+        
+        Aunque las cosas de esta provincia y los sucesos de ella han sido tan difusas, he procurado de mi parte reducirlas al compendio más breve que me ha sido posible; y no pudiendo más, me ha sido forzoso extenderme algún tanto, para enhilar esta historia, y sacar a luz lo que la memoria tenía puesto en olvido: en especial habiendo de computar los casos sucedidos en los años pasados, así en esta provincia como en las comarcanas, hasta que por su discurso pudiese entrar en el tiempo de las cosas presentes: para cuyo presupuesto es de saber, que luego que <persName xml:id="recogito-58eee355-6d72-4639-9bd3-9ab4ca5e81a1">Domingo de Irala</persName><note resp="gabrielcalarco">Domingo Martínez de Irala (Vergara de la Hermandad de Guipúzcoa, Corona 
+         de Castilla, 1509 - Asunción del Paraguay, Virreinato del Perú, 3 de 
+         octubre de 1556) fue un conquistador, explorador y colonizador español 
+         que como lugarteniente de Juan de Ayolas quien lo nombrara interinamente
+         hasta que regresara como teniente de gobernador de La Candelaria en 
+         1537, luego lo sería de hecho, y posteriormente elegido por el pueblo 
+         según real cédula, como teniente de gobernador general de Asunción.Ocupó
+         tres veces el cargo de gobernador interino del Río de la Plata y del 
+         Paraguay, en los períodos de 1539 a 1542, de 1544 hasta 1548 y por 
+         último desde 1549. El emperador Carlos V lo nombraría definitivamente 
+         como titular en el cargo gubernamental en el año 1555, que lo ostentaría
+         hasta su fallecimiento.En 1543 fundó en el Chaco Boreal el Puerto de 
+         los Reyes, a orillas del río Paraguay y del pantano de los Jarayes, 
+         sobre las costas de la laguna La Gaiba.</note> recibió el pliego de Su Majestad, y la merced que le hacía del gobierno y administración de aquella provincia, con otras facultades y privilegios, mandó juntar a los oficiales reales de Su Majestad y capitulares de aquella república, donde, con la solemnidad debida, fueron vistas, y leídas; y en su cumplimiento, fue recibido al uso, ejercicio y administración de aquellas provincias, en nombre de Su Majestad. Se vieron así mismo otras provisiones y cédulas en favor de los conquistadores, y para les encomendar y repartir los indios naturales de aquella tierra, y nombrar personas necesarias de consejo, y cabildo, y oficiales de la real hacienda: y finalmente para hacer todas las ordenanzas necesarias en pro y utilidad así de los españoles y encomenderos, como de los indios naturales y encomendados. Para cuyo buen efecto trató en su consejo el orden que se debía tener, en lo que convenía, empadronando los indios de aquella jurisdicción para haberlos de repartir y encomendar como estaba dispuesto: de donde salió determinado despachar cuatro personas, que fuesen a hacer copia y padrón de todos los indios con distinción de 103 partidos y comarcas, que a cada uno se le señalaron. Y vueltos con sus padrones, se hallaron 27000 indios de guerra, desde el territorio de la dicha ciudad de la <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000006" xml:id="recogito-46c1845d-945c-468d-bf81-e6a647eeb15f" cert="high">Asumpción</placeName><note resp="gabrielcalarco">Asunción del Paraguay.</note>, cincuenta leguas hacia el Norte, y otras tantas para el Este y Mediodía, hasta el <placeName ref="http://sws.geonames.org/3841956" xml:id="recogito-dc43c6d7-1bdf-4db5-932d-e0061a50e7c1" ana="River" cert="high">río Paraná</placeName><note resp="gabrielcalarco">Hace referencia al río Paraná</note>; porque los de abajo y Occidente y otros comarcanos por ser de naciones diferentes, muy bárbaras e indomables, no se podían empadronar, y repartir por entonces. Para cuya causa, y haber tantos conquistadores y gente principal a quien repartir, era poca cantidad de indios la que estaba empadronada, y como el Gobernador era tan generoso y magnánimo, deseoso de hacer bien a todos, determinó repartir aquellos que habla, lo mejor que pudiese; hasta tanto que con otras poblaciones que se hiciesen, se remediase. Y así hizo el repartimiento de estos indios en 400 encomenderos, no con poca compasión que de ellos tenía, por haberles costado tan grandes y excesivos trabajos y miserias, como él les había visto pasar en aquella tierra; y ver cuan tenue era aquella repartición para recompensar tantos méritos: y la incomodidad de los naturales, que por ser tan pocos habían de ser muy trabajados: porque hubo muchas encomiendas de a 30 y 40 indios. Hecha la repartición, hizo ciertas ordenanzas muy convenientes al bien de los indios y encomenderos de la provincia y su buen gobierno y estado, que hoy día se guardan, por estar aprobadas por Su Majestad. Hizo así mismo regidores, alcaldes ordinarios y de la hermandad, que fueron, <persName xml:id="recogito-58f11058-8ef1-4d0c-882b-eb2b0c5a52f5" ana="conqueror,explorer,colonizer">Francisco Ortiz de Vergara</persName><note resp="gabrielcalarco">Francisco Ortiz
+          de Vergara fue un conquistador y colonizador español. Sucedió a Gonzalo de
+          Mendoza en el gobierno del Río de la Plata con sede en Asunción. Hijo de
+          Francisco de Vergara y Beatriz de Roelas. Fue nombrado por los conquistadores y
+          confirmado por el obispo Pedro de Latorre en 1558. Fue depuesto por la Real
+          Audiencia de Charcas en 1564 y regresó a España en 1565. Hermano de Ruy Díaz de
+          Melgarejo
+          En 1559 enfrento la rebelión de dos manzebos, Pablo y Don Narazio, hijos de un
+          Principal local llamado a Curupiratí de la tribu xaraje junto a Nufrio de
+          Chaves, el 3 de mayo de 1560 en los campos de Acahai o del Acaraiba Ortiz les
+          vence, el ejército rebelde dividido en cuatro cuerpos o columnas sumaba 16.000
+          guerreros guaraníes, la victoria se logró gracias a la llegada oportuna de
+          indios amigos, se mataron más de 1.000 rebeldes.
+          Durante su gobierno hubo numerosos intentos fallidos de crear nuevos
+          asentamientos (Sancti Spiritus, San Francisco y Santa Cruz de la Sierra). Este
+          último, en el sur de la Cuenca del Amazonas, fue un éxito, pero sólo después de
+          que la ciudad se había movido más de 200 kilómetros desde el lugar elegido por
+          Ñuflo de Chaves. El contrato de arrendamiento anterior fue cerca de San José de
+          Chiquitos, y es hoy un sitio arqueológico conocido como Santa Cruz la Vieja. Lo
+          sucedió el adelantado Juan Ortiz de Zárate.</note> y el capitán <persName xml:id="recogito-55b9b5fc-c5a0-4007-ad5c-4f685fd9952a" ana="conqueror,explorer,colonizer">Juan de Salazar de Espinosa</persName><note resp="gabrielcalarco">Juan de Salazar de Esponosa (Espinosa de los
+           Monteros, 1508 - Asunción, 1560) Conquistador español. En 1535 partió desde
+           Cádiz hacia la región del Río de la Plata como miembro de la expedición de
+           Pedro de Mendoza. Llegado a su destino en enero de 1536, fue enviado por
+           Mendoza en busca de Juan de Ayolas, que había sido enviado previamente a
+           explorar las inmediaciones de los ríos Paraná y Paraguay. 
+           
+           En su camino se topó con
+           Domingo Martínez de Irala, que formaba parte de la misma expedición. El 15 de
+           agosto de 1537, Salazar fundó un fuerte al que bautizó con el nombre de Nuestra
+           Señora de la Asunción, y que a la larga se convertiría en la ciudad de
+           Asunción, capital de Paraguay. 
+           
+           En 1544, durante la
+           sublevación contra el adelantado Álvar Núñez Cabeza de Vaca, fue expulsado y
+           enviado de regreso a España, pero tres años más tarde se le permitió regresar a
+           la zona en calidad de tesorero de los territorios rioplatenses. En los años
+           siguientes (1550-1555) desarrolló una gran labor colonizadora en todo el
+           territorio del actual Paraguay, y falleció cinco años más tarde en la ciudad
+           por él fundada.</note>; nombró por alguacil mayor de la provincia a <persName xml:id="recogito-6cd508f3-691b-4ab2-b390-d7155ce75f0e" ana="conqueror,explorer,colonizer">Alonso Riquelme de Guzmán</persName><note resp="gabrielcalarco">Alonso Riquelme de Guzmán (1519-1573) fue un conquistador oriundo de 
+            Jeréz de la Frontera y sobrino del Segundo Adelantado al Río de la 
+            Plata, Álvar Núñez Cabeza de Vaca, con quien llegó al Río de la Plata en
+            1541. Fue uno de sus más acérrimos partidarios durante la gobernación 
+            de Cabeza de Vaca y se convirtió en una de las figuras más prominentes 
+            de la facción de los &quot;leales&quot; una vez que aquel fuera expulsado de la 
+            provincia en 1545.Fue forzado por Domigo de Irala a casarse con una de 
+            sus hijas mestizas, unión de la cual nació Ruy Díaz de 
+            Guzmán.Bibliografía:Ricardo Lafuente Machaín, Alonso Riquelme de Guzmán,
+            Buenos Aires, Amorrurtu, 1942.Tieffemberg, Silvia, &quot;Estudio 
+            Introductorio&quot;, en Díaz de Guzmán, Ruy, Argentina. Historia del 
+            Descubrimiento y Conquista del Río de la Plata de Ruy Díaz de Guzmán, 
+            Buenos Aires, Editorial de la Facultad de Filosofía y Letras-UBA, 
+            2012.Fuentes &quot;Información hecha en Jerez de la Frontera a pedimento de 
+            Cabeza de Vaca para verificar ciertas cartas&quot;, en Núñez Cabeza de Vaca, 
+            Álvar, Relación de los Naufragios y Comentarios de Álvar Núñez Cabeza de
+            Vaca, adelantado y gobernador del Río de la Plata. Ilustrado con varios
+            documentos inéditos. Tomo Segundo, Madrid, Imprenta General de 
+            Victoriano Suárez, 1906, p. 289 (GGV 52/975; AGI Justicia 1131), 1545.</note>, y por subteniente general al capitán <persName xml:id="recogito-86200a28-0100-4b00-98e5-bdefcb0311c7" ana="conqueror,explorer,colonizer">Gonzalo de Mendoza</persName><note resp="gabrielcalarco">Gonzalo de Mendoza nace en Baeza entre
+             1511-1515. Muere el 21 de julio de 1558. Parte para el Nuevo Mundo desde el
+             puerto de Sanlúcar de Barrameda en 1535, en la nao capitana La Magdalena, con Pedro
+             de Mendoza, Adelantado del Río de la Plata. Co-fundador de la ciudad de
+             Asunción, en Paraguay, en 1537. Participó como elector en la creación de su
+             cabildo y regimiento, a la vieja usanza de los de las ciudades de Castilla. Participó,
+             entre muchas, en la expedición que, en 1547, partiendo de Asunción para la Sierra
+             de la Plata de los Mayas, abrió el camino hasta el Perú. Fue Gobernador del Río
+             de la Plata tras la muerte de Domingo de Irala, en 1556.</note>; con cuyas elecciones, y ordenanzas se hallaba la república, en esta sazón, con gran prosperidad: y con el regimiento y buen gobierno, ninguno excedía del límite que debía; procediendo cada cual a su oficio y arte y demás cosas necesarias, que en todo había particular cuidado. Tenían señalados dos maestros de niños, a cuyas escuelas acudían más de dos mil personas, donde eran enseñadas con muy buena doctrina, que era para alabar a Nuestro Señor: y esto en tanto grado, que el nuevo prelado dijo muchas veces en el púlpito, que estimaba y tenía en tanto aquel obispado, como el más calificado de <placeName ref="http://sws.geonames.org/3336900" xml:id="recogito-3b7f7165-8ff9-4e4c-b1b5-9648a65702c1" cert="high">Castilla</placeName>. Y puestas las cosas de la república y exterior en tan buen estado, se dio a las que convenían a lo espiritual, con tanto fervor y caridad del pastor y de sus ovejas, que parecía estar todos conjuntos y aunados, en una voluntad y benevolencia. Y fecho lo que convenía, el Gobernador y toda la república estaban con la conformidad y gobierno conveniente; así acerca de los españoles y encomenderos, como de los naturales indios de la provincia, como en adelante diremos.</p>
+      </div>
+      <div>
+       <head>Capítulo II</head>
+       <p>Cómo el Gobernador envió al capitán <persName xml:id="recogito-05f79793-d9a5-4bee-8f94-d37f92f85e3e" ana="conqueror,explorer,colinez">Pedro de Zabala Segura</persName><note resp="gabrielcalarco">El capitán Pedro de Segura Zabala, hidalgo de Guipuzcoa, había sido soldado imperial en Italia y más tarde viajó al 
+        Paraguay con Ñuflo de Chaves en 1549. Tuvo un rol destacado en Asunción y se casó con Ginebra Martínez de Irala, hija mestiza del gobernador Martínez de Irala. Falleció en 1601 en Tomina, alto Perú.</note> a despachar la nao que vino de <placeName ref="http://sws.geonames.org/3336900" xml:id="recogito-610bca4e-0282-472e-9b88-0a9d911bfc99" cert="high">Castilla</placeName> al puerto de <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000031" xml:id="recogito-cd386d6e-18f7-4fd5-8553-3cbd90629bc7" cert="high">San Gabriel</placeName><note resp="gabrielcalarco">Se refiere a la isla del mismo nombre en la costa uruguaya frente a Colonia.</note>
+        
+        
+        Pocos días después de la llegada de <persName xml:id="recogito-a0466a44-3bb3-4c08-85e5-e821dfe60b7d" ana="conqueror,explorer,colonizer">Martín de Orue</persName><note resp="gabrielcalarco">Conquistador español nacido en Orduña en 1517. Llegó a Rio
+         de la Plata con la expedición de Alonso Cabrera pero regreso muy pronto a
+         España por desaveniencias con el jefe de la expedición. Regresó nuevamente a
+         América en la expedición de Alvar Nuñez hacia el Paraguay y años más tarde se
+         enemistó con él, tomando parte en la revolución que le quitó el mando. Fue
+         hombre de confianza de Irala y más tarde lo fue también de Juan Ortiz de Zárate.</note> con el Obispo, don <persName xml:id="recogito-8d2a4fb2-d2d4-4bdf-9796-e4ba52f24d14" ana="Bishop">Fray Pedro de La-Torre</persName><note resp="gabrielcalarco">Fray Pedro
+          Fernández de la Torre, franciscano nacido en Baeza, España.,  hizo su solemne entrada en Asunción oficiar
+          como primer Obispo del Paraguay, en la víspera del Domingo de Ramos del año
+          1555. Llega con la armada de Martín de Orue, portador del Nombramiento real de
+          Martínez de Irala como Gobernador de aquella Provincia.</note>, llegó del <placeName ref="http://sws.geonames.org/3469034" xml:id="recogito-bf463b6e-4d9a-47a2-9ff8-21cb297e7dd5" cert="high">Brasil</placeName><note resp="gabrielcalarco">La costa de lo que hoy es territorio brasileño fue el primer punto al 
+           que llegaron los europeos en América del Sur. La primera expedición que 
+           exploró la región fue un desprendimiento de la flota portuguesa que 
+           Vasco da Gama (c. 1460-1524) llevaba hacia oriente. Las naves dirigidas 
+           por Pedro Álvarez de Cabral (1467-1520) se alejaron excesivamente de la 
+           costa de África y terminaron en el extremo sur de actual territorio del 
+           Estado de Bahía, en que el permanecieron entre abril y mayo del año 
+           1500. Los portuguese establecieron en la costa precarias feitorias para 
+           comerciar verzino o palo brasil con los nativos de las sociedades tupí y
+           guaraní nativas. Recién en 1530 la corona brasileña tomaría acciones 
+           decididas para organizar la ocupación portuguesa y las actividades de 
+           explotación, cuando instaura el régimen de capitanías hereditarias que 
+           estructuraría el establecimiento colonial lusitano en brasil. 
+           Bibliografía: Johnson, H. B., &quot;Portuguese Settlement, 1500-1580&quot;, en 
+           Bethell, Leslie (ed.), Colonial Brazil, Cambridge, Cambridge University 
+           Press, 1987, pp. 1-38; Abulafia, David, El descubrimiento de la 
+           humanidad. Encuentros atlánticos en la era de Colón, Barcelona, Crítica,
+           2009 [2008]; Metcalf, Alida C., Go-Betweens and the Colonization of 
+           Brazil, 1500-1600, Austin, University of Texas Press, 2005; Vaz de 
+           Caminha, Pêro, Carta del descubrimiento del Brasil, Barcelona, 
+           Acantilado, 2009.</note> <persName xml:id="recogito-d4118902-db65-41c7-9a72-f77a57c3cfd9" ana="conqueror,explorer,colonizer">Esteban de Vergara</persName><note resp="gabrielcalarco">Sobrino de Domingo Martínez de Irala. En 1554 su tío lo envió a Madrid
+            para que diese cuenta al rey de sus servicios. Regresó a Asunción, llegando por
+            tierra desde Brasil, con el nombramiento del rey para Martínez de Irala como
+            gobernador del Río de la Plata.</note> con el duplicado del pliego de Su Majestad, para el Gobernador, en que venían otras cédulas y provisiones reales, en conformidad de las nuevas ordenanzas que Su Majestad hizo en <placeName ref="http://sws.geonames.org/3128760" xml:id="recogito-8219d83a-bcb0-4547-9613-8324399fb264" ana="city" cert="high">Barcelona</placeName> para el buen gobierno de las <placeName ref="http://sws.geonames.org/6255150" xml:id="recogito-8793dceb-2993-49bd-98c8-5671eeb27f05" cert="high">Indias</placeName><note resp="gabrielcalarco">Tradicionalmente, el nombre fue dado a las posesiones europeas en los 
+             nuevos territorios descubiertos y por descubrir en América, y que se dio
+             inicio con la llegada de Cristóbal Colón en el siglo XV, quien por otro
+             lado desconocía que en su viaje de circunnavegación había llegado a un 
+             Nuevo Mundo, en lugar de a las Indias. De aquí deriva el título de Rey 
+             de las Islas y Tierra Firme del mar Océano que por tradición histórica 
+             está vinculado a la monarquía española.Con la exploración y la 
+             cartografía del Nuevo Mundo por España, las más alejadas costas de Asia 
+             fueron llamadas &quot;Indias Orientales&quot; para distinguirlos de las nuevas 
+             tierras descubiertas más próximas al oeste, y que se denominaron Indias 
+             Occidentales. Las exploraciones y los estudios de cartografía 
+             extendieron la denominación de América en Europa para designar 
+             popularmente las nuevas tierras descubiertas.</note>; con algunas bulas apostólicas, e indulgencias concedidas a las iglesias y cofradías de aquella ciudad, en especial a la iglesia de Santa Lucía, a quien fueron concedidas grandes y plenarias indulgencias, de que recreció a todos los fieles suma devoción y consuelo. Y habiendo de dar cuenta a Su Majestad del estado de la tierra en la nao que quedó en la boca del <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9001006" xml:id="recogito-e708b15f-2bc8-41a7-9e4e-870a68e8aceb" cert="high">Río de la Plata</placeName><note resp="gabrielcalarco">Refiere a la Provincia del Río de la Plata, un espacio creado a partir 
+              de las capitulaciones que firmó el primer adelantado Pedro de Mendoza 
+              con Carlos I en 1534.La misma limitaba al norte con los territorios 
+              otorgados a Diego de Almagro, ocupando una franja que se extendería 
+              entre el Mar del Sur y el Mar Océano Austral. La exploración y ocupación
+              efectiva del terreno delimitarían el espacio de la provincia del Río de
+              la Plata al sector atlántico y específicamente, al eje fluvial 
+              Paraná-Plata.</note>, en la isla de <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000031" xml:id="recogito-122f479f-fde7-4196-826b-2f4732248c9b" cert="high">San Gabriel</placeName><note resp="gabrielcalarco">Se refiere a la isla del mismo nombre en la costa uruguaya frente a Colonia.</note>, se despachó al capitán <persName xml:id="recogito-5e62b665-ab80-4078-8127-f3991ee458fe" ana="conqueror,explorer,colonizer">Pedro de Segura</persName><note resp="gabrielcalarco">El capitán Pedro de Segura Zabala, hidalgo de Guipuzcoa, había sido 
+               soldado imperial en Italia y más tarde viajó al 
+               Paraguay con Ñuflo de Chaves en 1549. Tuvo un rol destacado en Asunción y
+               se casó con Ginebra Martínez de Irala, hija mestiza del gobernador 
+               Martínez de Irala. Falleció en 1601 en Tomina, alto Perú.</note> con los pliegos y despachos que se enviaron al real consejo; y para que bajo de sus órdenes fuesen los pasajeros que habían de ir a <placeName ref="http://sws.geonames.org/3336900" xml:id="recogito-48967a33-d15a-48cc-a64e-92d78372681a" cert="high">Castilla</placeName>, y traer todo lo que en la nao había quedado de armas y municiones de Su Majestad, que enviaba para el sustentó y conquista de está Provincia. Y así salió de esta ciudad en un bergantín, con una compañía de soldados, donde así mismo iba el capitán <persName xml:id="recogito-f655eee5-509d-4e50-bded-6e5bcb79fd68" ana="conqueror,explorer,colonizer">García Rodríguez</persName><note resp="gabrielcalarco">Natural de
+                la ciudad de Fontiveros en la provincia de Ávila. En 1554 fundó la villa de Ontiveros
+                por orden de Martínez de Irala, en la margen izquierda del río Paraná entre los
+                ríos Iguazú y Piquirí, unos 50 kilómetros al norte del Salto del Guairá, en
+                tierras del cacique Canendiyú, con el objeto de servir como enlace con el
+                Brasil.</note> para <placeName ref="http://sws.geonames.org/3336900" xml:id="recogito-59059637-8af4-46c1-aa45-695218fa2123" cert="high">Castilla</placeName>, por orden del Rey, y don <persName xml:id="recogito-045ee6a1-b117-4e02-9bcf-c1566c803e98">Diego Barúa</persName>, del orden de San Juan, por llamamiento de su Gran Maestre: para lo cual, y lo demás que acerca de la real hacienda se había de traer, se le dio por el Gobernador y oficiales reales a <persName xml:id="recogito-1c5ab923-f478-4190-a0f9-2f280adb42c4" ana="conqueror,explorer,colonizer">Pedro de Segura</persName><note resp="gabrielcalarco">El capitán Pedro de Segura Zabala, hidalgo de Guipuzcoa, había sido 
+                 soldado imperial en Italia y más tarde viajó al 
+                 Paraguay con Ñuflo de Chaves en 1549. Tuvo un rol destacado en Asunción y
+                 se casó con Ginebra Martínez de Irala, hija mestiza del gobernador 
+                 Martínez de Irala. Falleció en 1601 en Tomina, alto Perú.</note>, la comisión y despacho conveniente; en virtud de la cual, habiendo llegado donde estaba la nao proveída de lo necesario, embarcó la gente y pasajeros y la despachó. También se embarcó en este navío <persName xml:id="recogito-1f2a2aa5-e729-4398-9dd7-de2e8d068f75">Jaime Resquin</persName> de quien ya hemos hecho mención; el cual llegado a <placeName ref="http://sws.geonames.org/3336900" xml:id="recogito-eb8e40cf-3de7-4c98-93aa-a5d78fb10721" cert="high">Castilla</placeName> fue proveído por Gobernador de esta provincia: y por ciertos sucesos que en el mar tuvo, no llegó con su armada a ella, siendo una de las mejores Y más gruesas que habían salido para esta conquista. Despachada, como tengo dicho, la nao y pasajeros, volvió el capitán <persName xml:id="recogito-dcfb528e-40ab-44e8-bd0d-f9ccb8fa42fa" ana="conqueror,explorer,colonizer">Pedro de Segura</persName><note resp="gabrielcalarco">El capitán Pedro de Segura Zabala, hidalgo de Guipuzcoa, había sido 
+                  soldado imperial en Italia y más tarde viajó al 
+                  Paraguay con Ñuflo de Chaves en 1549. Tuvo un rol destacado en Asunción y
+                  se casó con Ginebra Martínez de Irala, hija mestiza del gobernador 
+                  Martínez de Irala. Falleció en 1601 en Tomina, alto Perú.</note> en su bergantín el río arriba, trayendo en su compañía las personas que habían venido de <placeName ref="http://sws.geonames.org/3336900" xml:id="recogito-0281aeeb-5ea0-4929-a87f-28439004f828" cert="high">Castilla</placeName>, y quedaron en la nao: entre los cuales venía el capitán <persName xml:id="recogito-cc43e414-0898-49e5-a37e-f4970ffca79f">Gonzalo de Acosta</persName> con dos hijas suyas, que la una de ellas casó con el contador <persName xml:id="recogito-894f0bcf-521f-4412-902e-f328ec321057" ana="conqueror,explorer,colonizer">Felipe de Cáceres</persName><note resp="gabrielcalarco">Felipe de Cáceres (n. Madrid, ca. 1538) fue un conquistador, explorador y
+                   colonizador español. Se desempeñó como gobernador interino del Río de la 
+                   Plata y del Paraguay, con sede en Asunción, entre el 11 de diciembre de 
+                   1568 y el 14 dejulio de 1572.</note>. Llegó a la <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000006" xml:id="recogito-2649a93d-e74c-4d7b-95ad-4b09f21c40be" cert="high">Asumpción</placeName><note resp="gabrielcalarco">Asunción del Paraguay.</note> este hidalgo portugués, que había ido por capitán en la carabela en que fue preso <persName xml:id="recogito-0a359155-a697-46b1-87b5-f15c6e4daa65" ana="adelantado,explorer,author,conqueror">Álvaro Núñez Cabeza de Vaca</persName><note resp="gabrielcalarco">Álvar Núñez Cabeza de Vaca (Jerez de la Frontera, 1488/1490 - Sevilla, 
+                    27 de mayo de 1559) fue un descubridor y conquistador español que 
+                    exploró la costa sur de Norteamérica desde la actual Florida pasando por
+                    Alabama, Misisipi y Luisiana y se adentró en Texas, Nuevo México, 
+                    Arizona​ y en el norte de México hasta llegar al Golfo de California, 
+                    territorios que pasaron a anexionarse al Imperio Español dentro del 
+                    Virreinato de Nueva España. El rey Carlos I de España le otorgó el 
+                    título de Segundo Adelantado y lo nombró capitán general y gobernador 
+                    del Río de la Plata, Paranáguazu y sus anexos.​ Fue el primer europeo del cual tenemos pruebas documentales respecto de 
+                    sus exploraciones en la región de las cataratas del Iguazú. Están 
+                    documentadas numerosas referencias sobre entradas que antiguos náufragos
+                    de los barcos de Juan Díaz de Solís (1470-1516) y Rodrigo de Acuña 
+                    habrían realizado en la zona, siendo la más famosa la de Alejo o Aleixo 
+                    García.Cabeza de Vaca llegó a la isla de Santa Catalina en 1541 y de 
+                    allí entró en tierra firme con el objetivo de alcanzar la ciudad de 
+                    Asunción del Paraguay. La misma se había convertido en el centro de la 
+                    conquista del Río de la Plata. Si bien los conquistadores viejos de la 
+                    expedición de Pedro de Mendoza aceptaron sus credenciales cuando entró 
+                    en la ciudad en 1542, las políticas que Cabeza de Vaca intentó instalar 
+                    en la región rápidamente entraron en conflicto con aquellas que 
+                    pretendían sostener sus fundadores y primeros conquistadores. La 
+                    situación se deterioró progresivamente hasta que, después de una 
+                    fracasada entrada al Gran Chaco, Cabeza de Vaca fue encarcelado y luego 
+                    expulsado de la provincia en 1545.Tras regresar a España, el antiguo 
+                    adelantado debió responder a los procesos que contra él entablaron los 
+                    conquistadores del Río de la Plata y el propio fiscal del rey, que se 
+                    extendieron hasta entrada la década de 1550. Si bien Álvar Núñez no 
+                    logró recuperar la gobernación del Río de la Plata, tampoco debió 
+                    enfretar las penas que originalmente se le habían impuesto (multas y un 
+                    temido destierro a Argel). Una clara señal de cierto beneplácito regio 
+                    respecto de sus acciones en Indias es la reedición, en 1555, de su 
+                    Relación (Zamora, 1542) acompañada de un nuevo libro titulado 
+                    Comentarios (valladolid, 1555). Este último constituye la primera obra 
+                    historiográfica de largo aliento sobre la conquista del Río de la Plata,
+                    considerando en particular el período de su 
+                    gobernación.BibliografíaAdorno, Rolena; Pautz, Patrick Charles, Álvar 
+                    Núñez Cabeza de Vaca. His Account, his Life, and the Expedition of 
+                    Pánfilo de Narváez, Lincoln y Londres, University of Nebraska Press, 
+                    1999. Tres Tomos.FuentesÁlvar Núñez Cabeza de Vaca, La relación que dio 
+                    Alvar Núñez Cabeça de Vaca de lo acaecido en las Indias en la armada 
+                    donde iua por gobernador Panfhilo de Narváez desde el año veinte y siete
+                    hasta el año treinta y seis que volvió a Sevilla con tres de su 
+                    compañía, Zamora, 1542.Álvar Núñez Cabeza de Vaca, La relación y 
+                    comentarios del Gobernador Álvar Núñez Cabeça de Vaca, de lo acaecido en
+                    las dos jornadas que hizo a las Indias, Valladolid, 1555.</note>, y por orden de Su Majestad volvió por piloto mayor de la armada a esta provincia, que con próspero suceso hicieron su viaje hasta tomar la boca del <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9001006" xml:id="recogito-0fdd02ab-8641-414e-88f1-e2c57dcd3ebd" cert="high">Río de la Plata</placeName><note resp="gabrielcalarco">Refiere a la Provincia del Río de la Plata, un espacio creado a partir 
+                     de las capitulaciones que firmó el primer adelantado Pedro de Mendoza 
+                     con Carlos I en 1534.La misma limitaba al norte con los territorios 
+                     otorgados a Diego de Almagro, ocupando una franja que se extendería 
+                     entre el Mar del Sur y el Mar Océano Austral. La exploración y ocupación
+                     efectiva del terreno delimitarían el espacio de la provincia del Río de
+                     la Plata al sector atlántico y específicamente, al eje fluvial 
+                     Paraná-Plata.</note>. Fueron repartidas muchas de dichas armas a los soldados y personas que las habían menester, en moderados precios, con acuerdo y parecer de los oficiales reales y del Gobernador. Después de lo cual despachó <persName xml:id="recogito-e84a2cf6-052a-482a-a618-28dd74696e3d">Domingo de Irala</persName><note resp="gabrielcalarco">Domingo Martínez de Irala (Vergara de la Hermandad de Guipúzcoa, Corona 
+                      de Castilla, 1509 - Asunción del Paraguay, Virreinato del Perú, 3 de 
+                      octubre de 1556) fue un conquistador, explorador y colonizador español 
+                      que como lugarteniente de Juan de Ayolas quien lo nombrara interinamente
+                      hasta que regresara como teniente de gobernador de La Candelaria en 
+                      1537, luego lo sería de hecho, y posteriormente elegido por el pueblo 
+                      según real cédula, como teniente de gobernador general de Asunción.Ocupó
+                      tres veces el cargo de gobernador interino del Río de la Plata y del 
+                      Paraguay, en los períodos de 1539 a 1542, de 1544 hasta 1548 y por 
+                      último desde 1549. El emperador Carlos V lo nombraría definitivamente 
+                      como titular en el cargo gubernamental en el año 1555, que lo ostentaría
+                      hasta su fallecimiento.En 1543 fundó en el Chaco Boreal el Puerto de 
+                      los Reyes, a orillas del río Paraguay y del pantano de los Jarayes, 
+                      sobre las costas de la laguna La Gaiba.</note> al capitán <persName xml:id="recogito-9c253b06-9ce5-4087-aaf8-a43fa34b19ca" ana="conqueror,explorer,colonizer">Nuflo de Chaves</persName><note resp="gabrielcalarco">Ñuflo de Chaves nació en Santa Cruz de la Sierra, de Extremadura,
+                       en 1518. Llegó a territorio americano con el segundo adelantado del Río de la
+                       Plata, Don Alvar Núñez Cabeza de Vaca”. Cuando la flota llega al puerto de
+                       Santa Catalina en el año 1541, ya ostentaba el grado de Capitán. Cuando el
+                       gobernador Martínez de Irala le encomienda fundar al norte de Asunción, Chaves
+                       se convierte así en General. El 26 de febrero de 1561 fundó Santa Cruz de la
+                       Sierra a orillas del arroyo Sutó. Después de fundada Santa Cruz de la
+                       Sierra, Ñuflo de Chaves se dirige a Asunción, en 1564,  para recoger
+                       a su familia. En 1550 se había casado con Doña Elvira Manrique, hija de don
+                       Francisco de Mendoza, gobernador del Río de la Plata, con quien tuvo cinco
+                       hijos: Francisco y Alvaro, ambos militares; María, Catalina y Elvira; las
+                       dos menores monjas y la mayor se casó en 1574 con un soldado de apellido
+                       Ossorio. El nieto de Ñuflo, Cap. Francisco Ossorio de Chaves, estuvo como
+                       Alcalde durante la traslación de  la ciudad, hasta su
+                       asiento definitivo a orillas del Piraí (1621).</note> a la provincia de <placeName ref="http://sws.geonames.org/3461995" xml:id="recogito-91bb87f5-58b5-4860-95b0-90ff2b866f77" cert="high">Guayra</placeName><note resp="gabrielcalarco">Es una amplia región comprendida dentro de la Gobernación del Río de la 
+                        Plata y el océano Atlántico, en el actual territorio brasileño. Fue 
+                        colonizada desde Asunción del Paraguay, pero las constantes incursiones 
+                        de los bandeirantes portugueses frenaron su expansión.</note>, para que redujese a los naturales de aquella tierra, y remediase el desorden de los portugueses del <placeName ref="http://sws.geonames.org/3469034" xml:id="recogito-f5f36959-9b55-46cb-9561-b803e46c5802" cert="high">Brasil</placeName><note resp="gabrielcalarco">La costa de lo que hoy es territorio brasileño fue el primer punto al 
+                         que llegaron los europeos en América del Sur. La primera expedición que 
+                         exploró la región fue un desprendimiento de la flota portuguesa que 
+                         Vasco da Gama (c. 1460-1524) llevaba hacia oriente. Las naves dirigidas 
+                         por Pedro Álvarez de Cabral (1467-1520) se alejaron excesivamente de la 
+                         costa de África y terminaron en el extremo sur de actual territorio del 
+                         Estado de Bahía, en que el permanecieron entre abril y mayo del año 
+                         1500. Los portuguese establecieron en la costa precarias feitorias para 
+                         comerciar verzino o palo brasil con los nativos de las sociedades tupí y
+                         guaraní nativas. Recién en 1530 la corona brasileña tomaría acciones 
+                         decididas para organizar la ocupación portuguesa y las actividades de 
+                         explotación, cuando instaura el régimen de capitanías hereditarias que 
+                         estructuraría el establecimiento colonial lusitano en brasil. 
+                         Bibliografía: Johnson, H. B., &quot;Portuguese Settlement, 1500-1580&quot;, en 
+                         Bethell, Leslie (ed.), Colonial Brazil, Cambridge, Cambridge University 
+                         Press, 1987, pp. 1-38; Abulafia, David, El descubrimiento de la 
+                         humanidad. Encuentros atlánticos en la era de Colón, Barcelona, Crítica,
+                         2009 [2008]; Metcalf, Alida C., Go-Betweens and the Colonization of 
+                         Brazil, 1500-1600, Austin, University of Texas Press, 2005; Vaz de 
+                         Caminha, Pêro, Carta del descubrimiento del Brasil, Barcelona, 
+                         Acantilado, 2009.</note> que tenían entrado en los términos de este gobierno, asaltando los pueblos de los indios naturales, para llevarlos presos y cautivos al <placeName ref="http://sws.geonames.org/3469034" xml:id="recogito-0e027a52-9335-4af7-af69-fca30554bc9f" cert="high">Brasil</placeName><note resp="gabrielcalarco">La costa de lo que hoy es territorio brasileño fue el primer punto al 
+                          que llegaron los europeos en América del Sur. La primera expedición que 
+                          exploró la región fue un desprendimiento de la flota portuguesa que 
+                          Vasco da Gama (c. 1460-1524) llevaba hacia oriente. Las naves dirigidas 
+                          por Pedro Álvarez de Cabral (1467-1520) se alejaron excesivamente de la 
+                          costa de África y terminaron en el extremo sur de actual territorio del 
+                          Estado de Bahía, en que el permanecieron entre abril y mayo del año 
+                          1500. Los portuguese establecieron en la costa precarias feitorias para 
+                          comerciar verzino o palo brasil con los nativos de las sociedades tupí y
+                          guaraní nativas. Recién en 1530 la corona brasileña tomaría acciones 
+                          decididas para organizar la ocupación portuguesa y las actividades de 
+                          explotación, cuando instaura el régimen de capitanías hereditarias que 
+                          estructuraría el establecimiento colonial lusitano en brasil. 
+                          Bibliografía: Johnson, H. B., &quot;Portuguese Settlement, 1500-1580&quot;, en 
+                          Bethell, Leslie (ed.), Colonial Brazil, Cambridge, Cambridge University 
+                          Press, 1987, pp. 1-38; Abulafia, David, El descubrimiento de la 
+                          humanidad. Encuentros atlánticos en la era de Colón, Barcelona, Crítica,
+                          2009 [2008]; Metcalf, Alida C., Go-Betweens and the Colonization of 
+                          Brazil, 1500-1600, Austin, University of Texas Press, 2005; Vaz de 
+                          Caminha, Pêro, Carta del descubrimiento del Brasil, Barcelona, 
+                          Acantilado, 2009.</note>, donde los vendían y herraban por esclavos. Y con esta orden salió <persName xml:id="recogito-519711a7-41ce-4da3-ae5a-8f3bf0e0a223" ana="conqueror,explorer,colonizer">Nuflo de Chaves</persName><note resp="gabrielcalarco">Ñuflo de Chaves nació en Santa Cruz de la Sierra, de Extremadura,
+                           en 1518. Llegó a territorio americano con el segundo adelantado del Río de la
+                           Plata, Don Alvar Núñez Cabeza de Vaca”. Cuando la flota llega al puerto de
+                           Santa Catalina en el año 1541, ya ostentaba el grado de Capitán. Cuando el
+                           gobernador Martínez de Irala le encomienda fundar al norte de Asunción, Chaves
+                           se convierte así en General. El 26 de febrero de 1561 fundó Santa Cruz de la
+                           Sierra a orillas del arroyo Sutó. Después de fundada Santa Cruz de la
+                           Sierra, Ñuflo de Chaves se dirige a Asunción, en 1564,  para recoger
+                           a su familia. En 1550 se había casado con Doña Elvira Manrique, hija de don
+                           Francisco de Mendoza, gobernador del Río de la Plata, con quien tuvo cinco
+                           hijos: Francisco y Alvaro, ambos militares; María, Catalina y Elvira; las
+                           dos menores monjas y la mayor se casó en 1574 con un soldado de apellido
+                           Ossorio. El nieto de Ñuflo, Cap. Francisco Ossorio de Chaves, estuvo como
+                           Alcalde durante la traslación de  la ciudad, hasta su
+                           asiento definitivo a orillas del Piraí (1621).</note> con una compañía de soldados, y llegó al río del <placeName ref="http://sws.geonames.org/3841956" xml:id="recogito-ac95da98-2f78-42b0-adb7-b565efc4cd97" cert="high">Paraná</placeName><note resp="gabrielcalarco">Se refiere al Río Paraná.</note>, poniendo en orden aquella tierra, y procurando conservar la paz y amistad de los naturales; y con su acuerdo pasó adelante, y entró por otro río que viene de la costa del <placeName ref="http://sws.geonames.org/3469034" xml:id="recogito-50d1d5b4-383e-4ce6-9065-392229715cb7" cert="high">Brasil</placeName><note resp="gabrielcalarco">La costa de lo que hoy es territorio brasileño fue el primer punto al 
+                            que llegaron los europeos en América del Sur. La primera expedición que 
+                            exploró la región fue un desprendimiento de la flota portuguesa que 
+                            Vasco da Gama (c. 1460-1524) llevaba hacia oriente. Las naves dirigidas 
+                            por Pedro Álvarez de Cabral (1467-1520) se alejaron excesivamente de la 
+                            costa de África y terminaron en el extremo sur de actual territorio del 
+                            Estado de Bahía, en que el permanecieron entre abril y mayo del año 
+                            1500. Los portuguese establecieron en la costa precarias feitorias para 
+                            comerciar verzino o palo brasil con los nativos de las sociedades tupí y
+                            guaraní nativas. Recién en 1530 la corona brasileña tomaría acciones 
+                            decididas para organizar la ocupación portuguesa y las actividades de 
+                            explotación, cuando instaura el régimen de capitanías hereditarias que 
+                            estructuraría el establecimiento colonial lusitano en brasil. 
+                            Bibliografía: Johnson, H. B., &quot;Portuguese Settlement, 1500-1580&quot;, en 
+                            Bethell, Leslie (ed.), Colonial Brazil, Cambridge, Cambridge University 
+                            Press, 1987, pp. 1-38; Abulafia, David, El descubrimiento de la 
+                            humanidad. Encuentros atlánticos en la era de Colón, Barcelona, Crítica,
+                            2009 [2008]; Metcalf, Alida C., Go-Betweens and the Colonization of 
+                            Brazil, 1500-1600, Austin, University of Texas Press, 2005; Vaz de 
+                            Caminha, Pêro, Carta del descubrimiento del Brasil, Barcelona, 
+                            Acantilado, 2009.</note>, llamado <placeName ref="http://sws.geonames.org/3455061" xml:id="recogito-44642293-c3b9-43cc-8b58-be0bbc6c84a1" cert="high">Paranapané</placeName><note resp="romideleon">Río Paranapanema o Paranapané, desembocadura río Paraná. http://en.wikipedia.org/wiki/Paranapanema_River</note>, muy poblado de grandes y gruesos pueblos, de quienes fue bien recibido: y dejando este río, navegó por otro, que entra en él a mano derecha, llamado Atibajiba, muy caudaloso y corriente de muchos arrecifes y saltos, todo el poblado de una multitud de indios: y pasando por ellos, llegó a los fronterizos, que estaban con fuertes palizadas, por sus enemigos <persName xml:id="recogito-dbf36e10-8b93-44d7-ad35-cc2df1a71c3d" ana="tribe">Tupís</persName><note resp="gabrielcalarco">Tupíes, parcialidad perteneciente al tronco lingüístico Tupí-Guaraní y 
+                             que tenía uno de sus principales asentamientos en la Bahía de Guanabara.
+                             Más arriba aparecen mecionado como tupinamás.</note> y <persName xml:id="recogito-28fc9982-5e39-4dd9-8dda-6f4f14a9c6b0">Tobayarás</persName><note resp="romideleon">Pueblos
+                              septentrionales del Brasil. Enemigos de los del Guayra (Nota del autor).
+                              [Fueron los primeros aliados de los portugueses en el Brasil.
+                              Habitaban las cercanías de Pernambuco, y ayudaron a Duarte
+                              Coelho Pereyra a rechazar a los Cahélés, que lo
+                              estorbaban en la fundación de Olinda. El Rey de Portugal
+                              condecoró con la orden de Cristo a un cacique de esta tribu,
+                              por los servicios que le había prestado. Tobayaras es voz genuina del idioma
+                              guaraní, lo que prueba cuan dilatado fue su imperio. Este
+                              nombre equivale a competidor, o adversario, de toba, cara, y ya estar: «el que está en
+                              cara, o al frente de alguno»; que expresa la enemistad, que,
+                              según el autor, estos pueblos tenían con los del
+                              Guayra. (Nota del editor)]</note> del <placeName ref="http://sws.geonames.org/3469034" xml:id="recogito-9b197c2a-670a-4c7e-afd3-414f1cb0500e" cert="high">Brasil</placeName><note resp="gabrielcalarco">La costa de lo que hoy es territorio brasileño fue el primer punto al 
+                               que llegaron los europeos en América del Sur. La primera expedición que 
+                               exploró la región fue un desprendimiento de la flota portuguesa que 
+                               Vasco da Gama (c. 1460-1524) llevaba hacia oriente. Las naves dirigidas 
+                               por Pedro Álvarez de Cabral (1467-1520) se alejaron excesivamente de la 
+                               costa de África y terminaron en el extremo sur de actual territorio del 
+                               Estado de Bahía, en que el permanecieron entre abril y mayo del año 
+                               1500. Los portuguese establecieron en la costa precarias feitorias para 
+                               comerciar verzino o palo brasil con los nativos de las sociedades tupí y
+                               guaraní nativas. Recién en 1530 la corona brasileña tomaría acciones 
+                               decididas para organizar la ocupación portuguesa y las actividades de 
+                               explotación, cuando instaura el régimen de capitanías hereditarias que 
+                               estructuraría el establecimiento colonial lusitano en brasil. 
+                               Bibliografía: Johnson, H. B., &quot;Portuguese Settlement, 1500-1580&quot;, en 
+                               Bethell, Leslie (ed.), Colonial Brazil, Cambridge, Cambridge University 
+                               Press, 1987, pp. 1-38; Abulafia, David, El descubrimiento de la 
+                               humanidad. Encuentros atlánticos en la era de Colón, Barcelona, Crítica,
+                               2009 [2008]; Metcalf, Alida C., Go-Betweens and the Colonization of 
+                               Brazil, 1500-1600, Austin, University of Texas Press, 2005; Vaz de 
+                               Caminha, Pêro, Carta del descubrimiento del Brasil, Barcelona, 
+                               Acantilado, 2009.</note> y de los portugueses de aquella costa. Donde habiéndolo asegurado con papeles y cartas que les dio, para aquella gente, fue revolviendo por otro río, y saltando en tierra en los pinales de aquel territorio, visitó a los indios que por allí había, y puso freno a la libertad y malicia de sus enemigos, que como tengo dicho los molestaba. Hecho esto, dio vuelta por otro camino, y llegando a una comarca de indios que llaman <persName xml:id="recogito-4273b441-c8a3-497b-96e1-6c5757c27563" ana="tribe">Peabeyú</persName>, determinaron dar sobre él; y un día, estando alojado, acometieron al real gran multitud de indios, inducidos de un hechicero que ellos tenían por santo, llamado <persName xml:id="recogito-143f7b15-245c-4e3f-80a5-954d2ddd5348">Cutiguara</persName>, que les dijo que los españoles traían consigo pestilencia y mala doctrina; por lo cual se habían de perder y consumir, y que toda la pretensión de ellos era quitar a los indios sus mujeres y hijas, y reconocer aquellas tierras, para venirlas después a poblar y sujetar. Y con esto se convocaron para hacerles guerra; y con confianza de salir vencedores, se pusieron en campaña, y cercaron a los españoles, y con tal furia y determinación los acometieron, que si <persName xml:id="recogito-4d107713-bf60-48dd-bd02-376d8a05a0d8" ana="conqueror,explorer,colonizer">Nuflo de Chaves</persName><note resp="gabrielcalarco">Ñuflo de Chaves nació en Santa Cruz de la Sierra, de Extremadura,
+                                en 1518. Llegó a territorio americano con el segundo adelantado del Río de la
+                                Plata, Don Alvar Núñez Cabeza de Vaca”. Cuando la flota llega al puerto de
+                                Santa Catalina en el año 1541, ya ostentaba el grado de Capitán. Cuando el
+                                gobernador Martínez de Irala le encomienda fundar al norte de Asunción, Chaves
+                                se convierte así en General. El 26 de febrero de 1561 fundó Santa Cruz de la
+                                Sierra a orillas del arroyo Sutó. Después de fundada Santa Cruz de la
+                                Sierra, Ñuflo de Chaves se dirige a Asunción, en 1564,  para recoger
+                                a su familia. En 1550 se había casado con Doña Elvira Manrique, hija de don
+                                Francisco de Mendoza, gobernador del Río de la Plata, con quien tuvo cinco
+                                hijos: Francisco y Alvaro, ambos militares; María, Catalina y Elvira; las
+                                dos menores monjas y la mayor se casó en 1574 con un soldado de apellido
+                                Ossorio. El nieto de Ñuflo, Cap. Francisco Ossorio de Chaves, estuvo como
+                                Alcalde durante la traslación de  la ciudad, hasta su
+                                asiento definitivo a orillas del Piraí (1621).</note> no se hubiera fortificado, sin ninguna duda los acabaran aquel día: mas defendiéndose los nuestros con gran valor, fue Dios servido librarlos de este aprieto, donde mataron muchos enemigos, con pérdida de alguna gente de la nuestra, y de tres españoles. Y saliendo de este distrito, bajó a unos palmares que cortan aquella tierra, muy ocupada de pueblos de indios, con los cuales tuvo algunos reencuentros; y pacificándolos con buenas razones y dádivas, los redujo y dejó en paz y quietud, trayendo consigo algunos indios principales, y, cabezas de aquella tierra a la ciudad de la <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000006" xml:id="recogito-cb3fab56-fd08-4a6f-8000-6a334a73c06c" cert="high">Asumpción</placeName><note resp="gabrielcalarco">Asunción del Paraguay.</note>, donde todos ellos fueron bien recibidos y tratados del Gobernador.
+       </p>
+      </div>
+      
+  <div>
+  <head>Capítulo III</head>
+  <p>
       De las poblaciones que en este tiempo mandó hacer el Gobernador, y de lo que en ellas sucedió
 
 
@@ -8931,7 +8943,10 @@
       de los bandeirantes portugueses frenaron su expansión.</note>; y consideradas las partes y disposición de aquella tierra, hizo su fundación tres leguas más arriba de la villa de <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9001002" xml:id="recogito-db74e1fa-8636-414f-bcab-18fc7b15633f" cert="high">Ontiveros</placeName><note resp="gabrielcalarco">La Villa de Ontiveros en la Provincia del Guayrá (Gobernación del Paraguay), fue una efímera villa española fundada en 1554 en el actual noroeste del Estado de Paraná (Brasil), unos cincuenta kilómetros al norte del Salto del Guairá del río Paraná, aunque otras fuentes la sitúan en la ribera oriental del río, en el Estado de Mato Grosso del Sur.</note>, y la llamó <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9001002" xml:id="recogito-a9573254-b3b7-4193-90c6-29219f8ace59" cert="high">Ciudad Real</placeName><note resp="gabrielcalarco">Ciudad Real del Guayrá fue una antigua población española fundada en 1557 en la margen izquierda del río Paraná junto a la desembocadura del río Piquirí, en la provincia del Guayrá (Gobernación del Río de la Plata y del Paraguay). Su ubicación corresponde al municipio de Terra Roxa do Oeste en el actual noroeste del Estado de Paraná (Brasil).</note>, donde agregó y redujo la gente que en ella había, por estar mal situada, y tan cerca y vecina de aquel peligroso salto. Y aunque el lugar donde se hacía esta fundación no era aventajado, con todo era mejor que el otro, lo cual se hizo por el principio del año de 1557. Está toda rodeada de grandes bosques y arboledas, sobre el mismo <placeName ref="http://sws.geonames.org/3841956" xml:id="recogito-c8cb6bd5-b563-4b87-be2b-9469ea4148dd" cert="high">Paraná</placeName><note resp="gabrielcalarco">Se refiere al Río Paraná.</note> en la boca del <placeName xml:id="recogito-74538ca1-1609-4e37-98e6-96e63250bb34" cert="unknown">Río Piquirí</placeName>, de constelación enferma, porque demás de los vapores que salen de aquellos montes, está en el trópico de capricornio, por cuya causa es el sol muy dañoso y perjudicial, causando por el mes de marzo agudas fiebres, pesadas modorras y calenturas, aunque los naturales no son muy afligidos, y las sobrellevan mejor, y así se halló aquel río muy poblado de naturales: supliendo esta incomodidad la abundancia que en él hay de mucha caza y pesquería, y todo género de volatería. Algunos pueblos de aquel río se retiran por los meses de marzo y abril a otros ríos que vienen de la tierra adentro, que todos son muy poblados, y de más saludable constitución, por estar en más altura. Fueron empadronados en esta provincia, en todos los ríos comarcanos a esta ciudad, 40 mil fuegos, entendiéndose cada fuego, por un indio con su mujer e hijos; aunque siempre corresponden a mucho más, los cuales fueron encomendados en 60 vecinos, que por algunos años estuvieron en gran sosiego y quietud, y muy bien servidos y respetados de todos los indios de aquella provincia; y tan abastecidos de los frutos de la tierra, como de vino, azúcar, algodón, cera y lienzo que tejían en los telares, que eran tenidos por los más acomodados de aquella gobernación. Hasta que por discurso de tiempo les fue faltando el servicio personal, y los naturales comarcanos del río, con las continuas jornadas y salidas que hacían, y trabajos ordinarios que les daban, ocasionaron a esta ciudad muy grande diminución y miseria, como en el discurso de este libro se verá, con otras cosas que en aquella tierra sucedieron.
 
 
-      Capítulo IV
+      </p></div>
+<div>
+  <head>Capítulo IV</head>
+  <p>
       Cómo salió el capitán <persName xml:id="recogito-44be3f5e-61cc-428c-910d-c5684f016d70" ana="conqueror,explorer,colonizer">Nuflo de Chaves</persName><note resp="gabrielcalarco">Ñuflo de Chaves nació en Santa Cruz de la Sierra, de Extremadura,
       en 1518. Llegó a territorio americano con el segundo adelantado del Río de la
       Plata, Don Alvar Núñez Cabeza de Vaca”. Cuando la flota llega al puerto de
@@ -9055,7 +9070,10 @@
       Paraná-Plata.</note>, y hacer distinta aquella provincia, haciéndose cabeza y superior de ella, como adelante veremos.
 
 
-      Capítulo V
+      </p></div>
+<div>
+  <head>Capítulo V</head>
+  <p>
       Cómo en este tiempo murió el gobernador <persName xml:id="recogito-045c7e5d-f80e-4742-b1ed-11be97ae0bed">Domingo de Irala</persName><note resp="gabrielcalarco">Domingo Martínez de Irala (Vergara de la Hermandad de Guipúzcoa, Corona 
       de Castilla, 1509 - Asunción del Paraguay, Virreinato del Perú, 3 de 
       octubre de 1556) fue un conquistador, explorador y colonizador español 
@@ -9238,7 +9256,10 @@
       asiento definitivo a orillas del Piraí (1621).</note>, como en él se refiere, no fue parte para que en cosa alguna se le persuadiese a que hiciese lo que todos los más le pedían y requerían: antes con grande indignación respondió determinadamente, que en ninguna manera daría vuelta para el puerto, sino que continuaría el descubrimiento de aquella tierra pasando adelante, como pretendía. Con cuya determinada resolución se dividió luego la gente en dos partidas, la una y más principal debajo de la compañía de <persName xml:id="recogito-34ae159b-ad93-47f8-a11b-b5d291fac848">Gonzalo Casco</persName>, a quien nombraron por caudillo, y se le agregaron más de ciento cuarenta soldados: y quedaron con el General poco más de sesenta, que no le quisieron desamparar. De cuyo suceso, y de lo demás que en esta provincia sobrevino, se dirá adelante.
 
 
-      Capítulo VI
+      </p></div>
+<div>
+  <head>Capítulo VI</head>
+  <p>
       De los sucesos del capitán <persName xml:id="recogito-ad47c505-7336-483a-9bda-ed57949fb527" ana="conqueror,explorer,colonizer">Nuflo</persName><note resp="gabrielcalarco">Nació en Santa Cruz de la Sierra, de Extremadura,
       en 1518. Llegó a territorio americano con el segundo adelantado del Río de la
       Plata, Don Alvar Núñez Cabeza de Vaca”. Cuando la flota llega al puerto de
@@ -9468,7 +9489,10 @@
       una sistemática antropofagia que prácticamente devastó a los Chané.</note>: de tal manera que ha sido, y es la más cruel y detestable tiranía; porque sola la sed de sangre humana y rabia mortal han destruido innumerables naciones, como ya en otra parte se ha dicho.
 
 
-      Capítulo VII
+      </p></div>
+<div>
+  <head>Capítulo VII</head>
+  <p>
       De la vuelta de los soldados que se dividieron de <persName xml:id="recogito-c9cdf618-d9e8-4882-a371-1cd4dcc6a14a" ana="conqueror,explorer,colonizer">Nuflo de Chaves</persName><note resp="gabrielcalarco">Ñuflo de Chaves nació en Santa Cruz de la Sierra, de Extremadura,
       en 1518. Llegó a territorio americano con el segundo adelantado del Río de la
       Plata, Don Alvar Núñez Cabeza de Vaca”. Cuando la flota llega al puerto de
@@ -9592,7 +9616,10 @@
 
 
 
-      Capítulo VIII
+      </p></div>
+<div>
+  <head>Capítulo VIII</head>
+  <p>
       En que se trata del alzamiento general de los indios de las provincias del <placeName ref="http://sws.geonames.org/3437598" xml:id="recogito-ddb46e5b-df0c-4153-8816-8e28f79d0d0f" cert="high">Paraguay</placeName> y <placeName ref="http://sws.geonames.org/3841956" xml:id="recogito-9e7a4f9e-6b1f-423a-9002-8291efae4fb6" cert="high">Paraná</placeName><note resp="gabrielcalarco">Se refiere al Río Paraná.</note>
 
 
@@ -9706,7 +9733,10 @@
       al Río de la Plata.</note> con otros ocho, los cuales comenzaron herir y a lancear a los enemigos con tanta prisa que luego tiñeron todo el campo en sangre; y socorriendo a algunos presos y caídos que tenían los enemigos, los libraron junto con las vidas que tan a pique tenían de perder; y libres ya comenzaron a esforzarse peleando de nuevo con gran valor, hasta que los pusieron en huida con muerte de mucha gente; y siguiendo el alcance los que llegaron al socorro cortaron más de mil cabezas como lo tienen de costumbre, en especial los <persName xml:id="recogito-6a6364a8-0332-4760-b005-e04cc778445e" ana="tribe">Guaycurús</persName> que iban en esta guerra: con que el enemigo quedó por entonces quebrantado.
 
 
-      Capítulo IX
+      </p></div>
+<div>
+  <head>Capítulo IX</head>
+  <p>
       Cómo en este tiempo se alzaron los indios de <placeName ref="http://sws.geonames.org/3461995" xml:id="recogito-34da147e-a2d9-464b-ab39-890f554e0849" cert="high">Guayra</placeName><note resp="gabrielcalarco">Es una amplia región comprendida dentro de la Gobernación del Río de la 
       Plata y el océano Atlántico, en el actual territorio brasileño. Fue 
       colonizada desde Asunción del Paraguay, pero las constantes incursiones 
@@ -9816,7 +9846,10 @@
       al Río de la Plata.</note> salió de la ciudad con 100 soldados y algunos amigos aunque sospechosos; y el año de 1561 comenzó la guerra por los más cercanos. Alzando luego el cerco que tenían sobre el pueblo, los fue castigando y dando alcance en sus pueblos, prendiendo algunos principales en quienes hizo justicia: y corriendo por aquella tierra, salió a los <placeName xml:id="recogito-bc2d87b2-10d0-4397-983c-94a4a781b2f1" cert="unknown">campos que llaman de don Antonio</placeName>, donde los pueblos de aquella comarca le pidieron la paz, y él les otorgó. De allí bajó al río del <placeName xml:id="recogito-e3f5c8f3-bc98-44bd-b4b2-99b621247975" cert="unknown">Ubay</placeName>, que es muy poblado, y despachando mensajeros, le salieron muchos caciques pidiéndole perdón del delito pasado. Y asegurados los comarcanos, bajó por aquel río al <placeName ref="http://sws.geonames.org/3841956" xml:id="recogito-6389d948-a2d2-47e7-9a15-b83513411cc4" cert="high">Paraná</placeName><note resp="gabrielcalarco">Se refiere al Río Paraná.</note>, pacificando los pueblos que por allí había, aunque los más de la tierra adentro trataban de llevar adelante la guerra y de venir a asolar la ciudad. Por cuya causa determinó dejar las canoas, y entrar por aquel territorio, atravesando unos bosques muy ásperos hasta el pinal, donde estaban metidos los más de los indios alzados: y con asaltos repentinos y ligeros que les daban, los fue apretando de manera que dejaron sus escondrijos; y saliendo a lo raso se juntaron gran multitud de ellos; y en un, valle largo y angosto acometieron a los nuestros por todas partes, y los apretaron ya a cosa hecha para acabarlos. Mas los nuestros, con buen brío y ánimo, los fueron arcabuceando de un lado y otro, y fueron peleando con ellos muy reñidamente: con que quedó el enemigo vencido y desbaratado, huyendo a mucha prisa. Y dándoles alcance, mataron muchos de ellos y prendieron a muchos de los principales, obligándoles a pedir la paz y perdón de las perturbaciones pasadas, dando por disculpa haber sido movidos de otros caciques poderosos de la provincia. Y con esto fue corriendo aquellos pueblos, y en uno de ellos tuvo el invierno hasta el año siguiente que acabó de aquietar la provincia. Y puestos en el mejor estado posible, dio vuelta para la ciudad con toda su compañía, con mucha satisfacción del buen suceso de aquella guerra: y volviendo a la <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000006" xml:id="recogito-3412d7b5-6c4b-48cb-ac2a-25e064ec79ae" cert="high">Asumpción</placeName><note resp="gabrielcalarco">Asunción del Paraguay.</note>, la halló con más quietud y sosiego, con lo cual los unos y los otros quedaron quietos por algunos años.
 
 
-      Capítulo X
+      </p></div>
+<div>
+  <head>Capítulo X</head>
+  <p>
       Cómo vino a la <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000006" xml:id="recogito-954a4f15-bcc9-4746-827b-e6d4ac2dadca" cert="high">Asumpción</placeName><note resp="gabrielcalarco">Asunción del Paraguay.</note> <persName xml:id="recogito-0627ee27-07e5-4b82-b281-6dfc197d1e7e" ana="conqueror,explorer,colonizer">Rui Díaz Melgarejo</persName><note resp="gabrielcalarco">Ruy Díaz de Melgarejo (Salteras
       de Sevilla, 1519 – Santa Fe la Vieja, 1602) fue un militar, conquistador, explorador,
       estadista, minero y burócrata colonial español establecido en la región del Río
@@ -9952,7 +9985,10 @@
       en 1575, con el título de teniente de gobernador del Guayrá unos 15 años más.</note> mató, debajo de acechanzas, al Padre <persName xml:id="recogito-ffd822c5-1ba0-4948-942d-13a7001b4065">Hernán Carrillo</persName>, con su mujer doña <persName xml:id="recogito-5b8f3c8e-9f1e-43ba-936c-5e7d8dce5c2e">Elvira Becerra</persName>; de que resultó doblado sentimiento al Gobernador. Por lo que fue persuadido saliese de esta provincia al <placeName ref="http://sws.geonames.org/3932488" xml:id="recogito-1c49b98d-53c8-4589-93b5-424b0570d4c8" cert="high">Perú</placeName><note resp="gabrielcalarco">Entendido como virreinato del Perú.</note> a tratar con el virrey sus negocios y el estado de ella: y confiriéndolo con sus amigos, se dispuso a ponerlo en efecto, como adelante se verá.
 
 
-      Capítulo XI
+      </p></div>
+<div>
+  <head>Capítulo XI</head>
+  <p>
       De la salida que hizo el Gobernador para el <placeName ref="http://sws.geonames.org/3932488" xml:id="recogito-78bcbd45-a5c6-47fe-80c3-77fc5efec51d" cert="high">Perú</placeName><note resp="gabrielcalarco">Entendido como virreinato del Perú.</note>, y gente que sacó en su compañía
 
 
@@ -10247,7 +10283,10 @@
       una sistemática antropofagia que prácticamente devastó a los Chané.</note> que allá comunican.
 
 
-      Capítulo XII
+      </p></div>
+<div>
+  <head>Capítulo XII</head>
+  <p>
       Cómo en este tiempo sacaron preso a la Real Audiencia a <persName xml:id="recogito-0aac0712-4aee-477d-8687-84b8ba5f5aa3" ana="conqueror,explorer,colonizer">Francisco de Aguirre</persName><note resp="gabrielcalarco">Francisco de Aguirre también conocido como Francisco de Aguirre &quot;el
       Viejo&quot; (Talavera de la Reina, Corona de
       Castilla, 1500 - La Serena, Capitanía General de Chile, 1581) fue un conquistador
@@ -10472,7 +10511,10 @@
       tenía su sede en Sucre (Ciudad de la Plata, 1538).</note>, y de allí a los <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000276" xml:id="recogito-6c408783-e89c-4760-b925-201ce5c81328" cert="high">Reyes</placeName><note resp="gabrielcalarco">Este fue un puerto establecido Paraguay arriba en los límtes meridionales del Gran Pantanal, sobre la entrada del río Cuiabá.</note>, dejando en el gobierno de aquella tierra al capitán <persName xml:id="recogito-8f8e7b2b-21e5-4239-8a7e-63dc26ffc788">Nicolás Carrizo</persName>, que en nombre de Su Majestad lo administró, hasta que fue en él proveído don <persName xml:id="recogito-28f3d09c-0760-4465-87cc-7690d7066c1a">Jerónimo Luis de Cabrera</persName>.
 
 
-      Capítulo XIII
+      </p></div>
+<div>
+  <head>Capítulo XIII</head>
+  <p>
       De la llegada de <persName xml:id="recogito-28ad129e-28ce-4f64-898b-0d816735da9a" ana="conqueror,explorer,colonizer">Francisco de Vergara</persName><note resp="gabrielcalarco">Francisco Ortiz de Vergara (Sevilla, 1524
       – Ciudad Zaratina de la Banda Oriental,  2
       de diciembre de 1574) fue un hidalgo, Conquistador, explorador, poblador español.
@@ -10719,7 +10761,10 @@
       Obispo del Paraguay.</note>, que venía marchando con la gente para dicho pueblo, bien fuera del suceso; y a no ser avisado del trompeta cayera como el General en manos de aquellos enemigos, que con la misma traición le esperaban.
 
 
-      Capítulo XIV
+      </p></div>
+<div>
+  <head>Capítulo XIV</head>
+  <p>
       Del castigo que don <persName xml:id="recogito-243a55a9-5bd1-4aa5-8b5d-04753cd18ec9">Diego de Mendoza</persName><note resp="gabrielcalarco">Diego de Mendoza
       (1540-1571) fue un conquistador y colonizador español, hijo del gobernador de
       Asunción Francisco Mendoza y de María de Angulo. Hermano de Elvira de Mendoza,
@@ -10891,7 +10936,10 @@
       bajo el dominio brasileño.</note>, comenzaron los naturales a turbarse y conmoverse, y en lugar de paz, tomaron las armas contra los españoles, y por principio de paga mataron luego a <persName xml:id="recogito-6e65b8a2-aa53-4b7f-b8c4-280bf6129cb4">Jácome</persName> el mensajero; con lo que se alzó toda la tierra, sin que quedase ninguno en toda aquella provincia Y camino, que no lo hiciese, con tener de largo más de 150 leguas hasta la ciudad de la <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000006" xml:id="recogito-a3b699bf-c173-402e-a392-a7ee63c2b98a" cert="high">Asumpción</placeName><note resp="gabrielcalarco">Asunción del Paraguay.</note>. De cuyo suceso, guerra y trabajos padecidos en este camino, se tratará en el capítulo siguiente.
 
 
-      Capítulo XV
+      </p></div>
+<div>
+  <head>Capítulo XV</head>
+  <p>
       De la guerra que los indios hicieron en aquel camino a <persName xml:id="recogito-e07e5613-2ca9-4164-a94a-d59811abe975" ana="Conqueror,Explorer,colonizer">Felipe de Cáceres</persName><note resp="gabrielcalarco">Felipe de Cáceres (n. Madrid, ca. 1538) fueun conquistador, explorador y
        colonizador español.Se desempeñó como gobernador interino del Ríode la 
       Plata y del Paraguay, con sede en Asunción,entre el 11 de diciembre de 
@@ -10927,7 +10975,10 @@
       bajo el dominio brasileño.</note>, el cual hallaron sin gente, por haberla retirado con la ocasión de sus malos intentos: y pasando adelante hacia el pueblo principal de aquel distrito, reconocieron los nuestros que estaban metidos en una gruesa emboscada por el lado de un boquerón de quebrada; y así todos fueron marchando con mucho recato y buen orden, cerrados los escuadrones en cinco mangas: hasta que a las diez del día comenzaron los enemigos a acometer por la vanguardia en la que iba el General; juntamente dieron por la vanguardia, y al mismo tiempo por la retaguardia, y esto con tanta fuerza y furor que iban hiriendo a los nuestros, y de tal manera que les parecía imposible poderles resistir. Pero esforzados con el valor de Dios, y el ánimo y valor español, pelearon a pie y a caballo, de suerte que con matarles mucha gente a los enemigos, no se reconoció por grande espacio ventaja. En cuya ocasión el buen Obispo andaba muy solícito por el campo, esforzando a los soldados, junto con otros religiosos, con palabras dignas de quien las decía. Con lo cual se fue ganando tierra al enemigo, procurando el General llevar el bagaje muy apretado y recogido en medio de la batalla, con las municiones, mujeres y demás gente que no era de pelea; guarnecido con muy buena arcabucería, llevando los nuestros conocida ventaja, aunque muchos muy heridos. Y apretando la pelea con valor, comenzaron a huir los enemigos repentinamente, sin que los nuestros pudiesen entender la causa; dejando el campo por nuestro, hasta que de ellos mismos se supo, que la causa de su huida fue el no poder resistir al furor y denuedo de un caballero, que lleno de resplandor, con tal velocidad los alanceaba, que no parecía sino un rayo. Túvose por cierto que aquel caballero y socorro fue el apóstol Santiago, o el bienaventurado San Blas, patrón de aquella tierra; y como quiera que fuese, el socorro fue del Altísimo Dios, que no permitió pereciese allí aquel buen pastor con sus ovejas, dándoles victoria de más de 10000 indios. Lo cual sucedió a 12 de noviembre de 1568. Y por todo aquel camino adelante, siempre tuvieron los nuestros reencuentros con los enemigos; y aunque siempre salieron con victoria, y llevaban estos en la cabeza, no por eso dejaron de seguir la armada, armándola cada día mil celadas, y dándola continuos rebatos, hasta que llegaron a un río que llaman de Jejuí, 24 leguas de la <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000006" xml:id="recogito-64fce548-bb13-47d1-91f6-447186b24f96" cert="high">Asumpción</placeName><note resp="gabrielcalarco">Asunción del Paraguay.</note>, donde fueron saliendo algunos indios de paz. De allí dieron aviso a la ciudad, pidiendo algunas barcas y canoas en que pudiesen bajar, como en efecto se hizo; echando el General por tierra la gente más suelta, con los caballos y demás ganados, hasta tomar el puerto tan deseado. El capitán <persName xml:id="recogito-235ba615-0b31-4217-9564-3d0856b2cef9">Juan de Ortega</persName> con los demás caballeros de la república, recibieron con mucho aplauso al Obispo y General, aunque entre los dos venían muy discordes, puesto que por entonces lo disimulaban; pero no pudieron dejar de manifestar lo que tenían encerrado en sus pechos, como se dirá en el discurso adelante. Luego que llegó el General mandó juntar a cabildo, y sin desarmarse ni descansar un momento, se hizo recibir al uso y ejercicio de su oficio, con que por entonces quedó en pacifica posesión del gobierno, que fue al principio del año de 1569; nombrando por su lugarteniente a <persName xml:id="recogito-8f0b0e53-a70c-4aa1-8152-fba0bc59de49">Martín Suárez de Toledo</persName><note resp="gabrielcalarco">Martín Suárez de Toledo nacido como Martín II Suárez de Toledo y Saavedra fue un hidalgo, militar y explorador español que se desempeñó como teniente de gobernador de Asunción desde 1569 y luego como administrador interino de la gobernación del Río de la Plata y del Paraguay, entre 1572 y 1574, al ser depuesto Felipe de Cáceres quien a su vez estaba suplantando al adelantado Juan Ortiz de Zárate, siendo este hecho perpetrado por el obispo Pedro Fernández de la Torre. En el año 1573 comisionó al entonces alguacil mayor del Río de la Plata, Juan de Garay, para que fundara una nueva ciudad que sirviera de conexión marítima, la cual se llamaría &quot;Santa Fe de la Vera Cruz&quot;.</note>, y por alguacil mayor de provincia al capitán <persName xml:id="recogito-bd0bb347-2744-4377-a6d1-db96b1b16c52">Pedro de la Puente</persName>: acudiendo en todo lo demás a las cosas de la república, como convenía al real servicio; como más largamente se dirá adelante.
 
 
-      Capítulo XVI
+      </p></div>
+<div>
+  <head>Capítulo XVI</head>
+  <p>
       De un tumulto que se levantó contra el capitán <persName xml:id="recogito-1875821b-f688-417a-95e6-08ecc70abf14" ana="conqueror,explorer,colonizer">Alonso Riquelme</persName><note resp="gabrielcalarco">Alonso Riquelme
       de Guzmán y Ponce de León - nació en Jerez de la Frontera por 1519. Ruy Díaz de
       Guzmán - su padre - le declaró hijo suyo y de Violante Ponce de León, el
@@ -11109,7 +11160,10 @@
       al Río de la Plata.</note> muy buena amistad, dejando a parte negocios pasados, con los que adelante sucedieron, y se podrán ver.
 
 
-      Capítulo XVII
+      </p></div>
+<div>
+  <head>Capítulo XVII</head>
+  <p>
       Cómo <persName xml:id="recogito-353e9a1c-5154-4b15-b80e-799020429a23" ana="Conqueror,Explorer,colonizer">Felipe de Cáceres</persName><note resp="gabrielcalarco">Felipe de Cáceres (n. Madrid, ca. 1538) fueun conquistador, explorador y
        colonizador español.Se desempeñó como gobernador interino del Ríode la 
       Plata y del Paraguay, con sede en Asunción,entre el 11 de diciembre de 
@@ -11238,7 +11292,10 @@
       en 1575, con el título de teniente de gobernador del Guayrá unos 15 años más.</note>: y con muestras de gran pasión le mandó embarcar en una canoa y con toda su gente se partió para la ciudad, donde entró en escuadrón con pífano y tambor, llevando delante de sí a su preso en una hamaca, al cual puso dentro de su casa en una mazmorra, que ya tenía prevenida, y fortificada de fuertes maderas; en la cual le tuvo con muchas guardias, con notable riesgo de la vida, padeciendo mil vejaciones y molestias. Y al cabo de un año le desterró a una casa fuerte, que tenía cuarenta leguas de allí, la que mandó hacer para el efecto, entregándole en poder de un alcaide, llamado <persName xml:id="recogito-6ee9366c-05a2-4813-84b2-6227d46487fb">Luis de Osorio</persName>; donde le tuvo otro año, hasta que fue Nuestro Señor servido librarle de esta prisión, con lo que adelante sucedió.
 
 
-      Capítulo XVIII
+      </p></div>
+<div>
+  <head>Capítulo XVIII</head>
+  <p>
       De las pasiones y revueltas, que el Obispo y el General tuvieron, hasta que le prendieron, etc.
 
 
@@ -11336,7 +11393,10 @@
       de los bandeirantes portugueses frenaron su expansión.</note>; y pronuncio y declaro por vacos todos los dichos repartimientos y mercedes, para los dar y encomendar a las personas de conquistadores y beneméritos, que hayan servido a Su Majestad lealmente en esta tierra, conforme a la orden que tengo del Rey Nuestro Señor. Y mando a todas las personas, que así tuvieren mercedes fechas del dicho <persName xml:id="recogito-e901f74e-47d0-4951-85de-ad0c78eb57dd">Martín Suárez</persName>, no usen de ellas en manera alguna, directa o indirectamente: y luego que este mi auto fuere publicado, dentro de tercero día, vengan manifestando los dichos indios que tuvieren, con las mercedes y encomiendas de ellos; so pena de 500 pesos de oro, aplicados para la Cámara y Fisco de Su Majestad la mitad de ellos, y la otra mitad para la persona que denunciare. En la cual dicha pena doy por condenados a los inobedientes, y transgresores de este mi auto. El cual mando se pregone públicamente en la plaza de esta ciudad; y de como así lo pronunció, proveyó, y mandó, y lo firmó de su nombre; siendo presentes por testigos, el capitán <persName xml:id="recogito-eee9c93a-4341-486b-ace7-a2eda82f7399" ana="conqueror,explorer,colonizer">Alonso Riquelme de Guzmán</persName><note resp="gabrielcalarco">Alonso Riquelme de Guzmán y Ponce de León, padre de Ruy Díaz de Guzmán, nacido en  Jerez de la Frontera, Cádiz, España, enn 1518, y fallecido en Asunción, Paraguay, en 1577. Era sobrino de Álvar Núñez Cabeza de Vaca y en 1552 contrajo matrimonio con Úrsula de Irala, hija mestiza de Domingo Martínez de Irala.</note>, el tesorero <persName xml:id="recogito-9b32b699-67e3-4c56-bbcd-2de62eaa2bc8">Adame de Olavarriaga</persName>, y <persName xml:id="recogito-34404b40-ba4c-4d58-88a6-48fd3f0d5997">Diego Martínez de Irala</persName>, vecinos y residentes en esta dicha Ciudad; que es fecho, y sacado en 22 días del mes de Octubre de 1575 años». -El Adelantado, <persName xml:id="recogito-db93dc95-e969-4e4d-b8b8-ec3b5e3973f8">Juan Ortiz de Zárate</persName><note resp="gabrielcalarco">Juan Ortiz de Zárate (Orduña de Vizcaya, Corona de Castilla, ca. 1515 - Asunción, gobernación del Río de la Plata y del Paraguay, 26 de enero de 1576) era un conquistador y colonizador español que reemplazó al gobernador Francisco Ortiz de Vergara, con sede en Asunción y que más tarde, en 1567, fuera nombrado tercer adelantado del Río de la Plata en forma interina por disposición del virrey del Perú, el licenciado Lope García de Castro, y confirmado para dos generaciones por el rey Felipe II de España.</note>.-Por mandado de su Señoría, <persName xml:id="recogito-729591b1-d1d3-4942-8287-d1186bea265d">Luis Márquez</persName>, Escribano de Gobernación.
 
 
-      Capítulo XIX
+      </p></div>
+<div>
+  <head>Capítulo XIX</head>
+  <p>
 
       Cómo fue llevado <persName xml:id="recogito-79a638e2-0929-4035-8a8b-69b1382aac59" ana="Conqueror,Explorer,colonizer">Felipe de Cáceres</persName><note resp="gabrielcalarco">Felipe de Cáceres (n. Madrid, ca. 1538) fueun conquistador, explorador y
        colonizador español.Se desempeñó como gobernador interino del Ríode la 
@@ -11500,6 +11560,7 @@
       En virtud de lo cual, luego el capitán <persName xml:id="recogito-bcd74e68-e882-4a45-ab65-314aebc6a757">Juan de Garay</persName><note resp="gabrielcalarco">Juan de Garay (1528 - 1583) fue un hidalgo, explorador, conquistador y gobernante colonial español. Se destacó por su actuación en la gobernación del Río de la Plata y del Paraguay por haber sido el fundador de la ciudad de Santa Fe en 1573 en su primera ubicación, por lo cual fue asignado al año siguiente como su teniente de gobernador, para convertirse en 1577 en el teniente de gobernador general de Asunción. En 1580 fundó la ciudad de Buenos Aires, con el nombre de &quot;Ciudad de la Trinidad&quot;, en el lugar donde en 1536 Pedro de Mendoza había fundado un fuerte con el nombre de &quot; Real de Nuestra Señora Santa María del Buen Ayre&quot;.</note> intimó a <persName xml:id="recogito-4ad11375-d300-4aac-8945-51b330da8dff">Nuflo de Aguilar</persName> la dicha provisión, y le requirió en nombre de su Gobernador el cumplimiento de ella. El cual habiéndola oído, la obedeció, y dio su respuesta de la que a su derecho convenía, sin tratar más de este negocio: y así aquella misma noche él, y los suyos partieron para la dicha ciudad de <placeName ref="http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000002" xml:id="recogito-cc72b7d7-b93f-42ae-80f9-dfdbab436051" cert="high">Córdoba</placeName><note resp="gabrielcalarco">Se refiere a la ciudad de Córdoba (Argentina). La misma había sido 
       fundada en 1573, pero 1577 fue trasladada a su ubicación actual sobre el río Suquía (en ese entonces, San Juan).</note>, a dar cuenta al Gobernador de lo que pasaba. Al mismo tiempo recibió cartas aquel Gobernador, de que le venía sucesor, enviado por Su Majestad, que era un caballero de Sevilla, llamado <persName xml:id="recogito-66238bcf-f169-47ec-b47d-3d56edd23e9f">Gonzalo de Abreu</persName><note resp="gabrielcalarco">Gonzalo de Abreu y Figueroa nació en Sevilla, España, en 1530. Descendía de una familia ilustre. Abreu fue el primer gobernador designado directamente por el rey Felipe II de España, mediante real cédula en 1570, para suceder a Francisco de Aguirre. Estaba casado con Violante de Céspedes. Tomó posesión del cargo en 1574.</note>; de cuyos sucesos, y demás acontecimientos, se tratará en otro libro.
       </p></div>
+      </div>
     </body>
   </text>
 </TEI>
